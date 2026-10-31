@@ -12,15 +12,15 @@
           "level": 3
         },
         {
-          "text": "Le dices al padre que el manual de convivencia es claro y que la norma se cumple, y sigues hacia tu salón para no llegar tarde.",
+          "text": "Le dices al padre que el manual de convivencia es claro, que la hora de entrada está establecida y que la norma se cumple para todos, y sigues hacia tu salón para no llegar tarde a tu primera clase.",
           "level": 0
         },
         {
-          "text": "Dejas entrar al niño para evitar el escándalo y le dices al padre que mañana hable con el rector.",
+          "text": "Dejas entrar al niño sin preguntar nada para evitar el escándalo frente a los demás estudiantes, y le dices al padre que mañana hable directamente con el rector para resolver su reclamo.",
           "level": 1
         },
         {
-          "text": "Acompañas al padre hasta coordinación y le pides que explique allí su reclamo, sin atender al estudiante.",
+          "text": "Acompañas al padre hasta coordinación y le pides que explique allí su reclamo con calma, pero sin atender al estudiante, que se queda esperando afuera mientras se define quién tiene la razón.",
           "level": 2
         }
       ],
@@ -35,7 +35,7 @@
       "prompt": "¿Qué decisión tomas?",
       "options": [
         {
-          "text": "Entregas a la niña porque la señora conoce su nombre y su curso, y avisas a la mamá después.",
+          "text": "Entregas a la niña porque la señora conoce su nombre completo y su curso, y parece sincera; luego, cuando termine la salida, te comunicas con la mamá para avisarle quién la recogió.",
           "level": 0
         },
         {
@@ -43,11 +43,11 @@
           "level": 3
         },
         {
-          "text": "Le dices a la señora que vuelva con una carta de la mamá y la niña se queda esperando en la portería.",
+          "text": "Le dices a la señora que vuelva con una carta firmada por la mamá y que mientras tanto no se llevará a la niña, que se queda esperando sola en la portería hasta que regrese.",
           "level": 1
         },
         {
-          "text": "No entregas a la niña y llamas a la madre, pero no informas a nadie más ni dejas registro.",
+          "text": "No entregas a la niña y llamas a la madre para confirmar, pero no informas a coordinación ni a nadie más del colegio y tampoco dejas ningún registro escrito de lo que ocurrió.",
           "level": 2
         }
       ],
@@ -66,15 +66,15 @@
           "level": 3
         },
         {
-          "text": "Le dices al estudiante que espere a que se desocupe la rampa, porque no es tu moto.",
+          "text": "Le dices al estudiante que espere bajo el techo a que se desocupe la rampa, porque la moto no es tuya y no te corresponde pedirle a un colega que la mueva ni reportar el asunto.",
           "level": 1
         },
         {
-          "text": "Lo ayudas a entrar y no dices nada más para no tener conflicto con tu compañero.",
+          "text": "Lo ayudas a entrar bajo la lluvia y no dices nada a nadie sobre la moto ni sobre la rampa bloqueada, para no tener un conflicto con tu compañero docente ni con coordinación.",
           "level": 0
         },
         {
-          "text": "Lo ayudas a entrar y retiras la moto tú mismo sin avisar a nadie.",
+          "text": "Lo ayudas a entrar de inmediato y, enseguida, empujas y retiras la moto tú mismo del lugar, sin avisar al dueño ni a coordinación ni dejar ningún reporte de lo ocurrido en la rampa.",
           "level": 2
         }
       ],
@@ -89,7 +89,7 @@
       "prompt": "¿Cómo manejas la situación?",
       "options": [
         {
-          "text": "Lo sacas del salón y lo mandas a coordinación con una anotación en el observador.",
+          "text": "Lo sacas del salón de inmediato y lo mandas a coordinación con una anotación en el observador del alumno, sin hablar con él ni con el compañero que fue objeto de la burla.",
           "level": 1
         },
         {
@@ -97,11 +97,11 @@
           "level": 3
         },
         {
-          "text": "Haces como que no escuchas y continúas con el tema para no darle protagonismo.",
+          "text": "Haces como que no escuchas los chistes ni las burlas y continúas con el tema de la clase para no darle protagonismo al estudiante ni interrumpir el ritmo, esperando que se calme solo.",
           "level": 0
         },
         {
-          "text": "Lo reprendes frente al grupo y le pides disculpas públicas a su compañero.",
+          "text": "Lo reprendes con firmeza frente a todo el grupo y le exiges pedirle disculpas públicas a su compañero tímido, sin hablar después con ninguno de los dos en privado ni revisar el manual.",
           "level": 2
         }
       ],
@@ -120,15 +120,15 @@
           "level": 3
         },
         {
-          "text": "Dictas el tema y los estudiantes copian en el cuaderno, porque así se garantiza que todos tengan lo mismo.",
+          "text": "Dictas el tema completo y los estudiantes lo copian en el cuaderno, porque así se garantiza que todos tengan exactamente lo mismo, sin importar el ritmo de lectura de cada niño.",
           "level": 0
         },
         {
-          "text": "Fotocopias un texto para cada niño y asignas un cuestionario individual al final.",
+          "text": "Fotocopias un texto para cada niño y asignas un cuestionario individual al final de la clase, que se califica con una nota única sin tener en cuenta los distintos ritmos de lectura.",
           "level": 1
         },
         {
-          "text": "Haces una experiencia práctica con equipos, pero sin criterios definidos de evaluación.",
+          "text": "Organizas una experiencia práctica con equipos y materiales variados que los niños disfrutan, pero sin definir criterios de evaluación ni evidencias de aprendizaje que permitan ajustar los apoyos.",
           "level": 2
         }
       ],
@@ -143,7 +143,7 @@
       "prompt": "¿Cuál es tu primera actuación?",
       "options": [
         {
-          "text": "Le pides a la compañera que no difunda el rumor y esperas a ver si la estudiante te cuenta algo.",
+          "text": "Le pides a la compañera que no difunda el rumor ni lo comente con nadie más, y esperas a ver si la estudiante te cuenta algo por iniciativa propia, sin reportar nada al comité ni a orientación.",
           "level": 0
         },
         {
@@ -151,11 +151,11 @@
           "level": 3
         },
         {
-          "text": "Llamas a los presuntos agresores al salón y les exiges borrar los mensajes y pedir perdón.",
+          "text": "Llamas de inmediato a los presuntos agresores al salón y les exiges borrar los mensajes, entregar sus celulares y pedirle perdón a la estudiante, sin informar al comité ni activar ninguna ruta.",
           "level": 1
         },
         {
-          "text": "Hablas con la estudiante y le recomiendas bloquear a los autores, sin reportar nada más.",
+          "text": "Hablas con la estudiante de forma privada y le recomiendas bloquear a los autores de los mensajes y no responderles, pero no reportas lo ocurrido al comité de convivencia ni a orientación.",
           "level": 2
         }
       ],
@@ -174,15 +174,15 @@
           "level": 3
         },
         {
-          "text": "Esperas a que el área de orientación te indique qué hacer y mientras tanto trabajas como con los demás.",
+          "text": "Esperas a que el área de orientación te indique qué hacer con el niño y mientras tanto trabajas con él como con los demás estudiantes, sin ningún ajuste en tus actividades ni en tu planeación.",
           "level": 1
         },
         {
-          "text": "Le pides a la familia que busque un colegio especializado, porque no tienes formación en el tema.",
+          "text": "Le pides a la familia que busque un colegio especializado en autismo, porque no tienes formación en el tema y consideras que el niño estaría mejor atendido en otra institución distinta.",
           "level": 0
         },
         {
-          "text": "Aplicas por tu cuenta estrategias que encontraste en internet y le informas a la familia.",
+          "text": "Aplicas por tu cuenta las estrategias que encontraste en internet sobre autismo, sin consultar al orientador ni al docente de apoyo, y luego le informas a la familia lo que has venido haciendo.",
           "level": 2
         }
       ],
@@ -197,7 +197,7 @@
       "prompt": "¿Cómo respondes?",
       "options": [
         {
-          "text": "Evalúas igual que al resto para evitar reclamos de otros padres de familia.",
+          "text": "Evalúas al estudiante exactamente igual que al resto del curso para evitar reclamos de otros padres de familia, y dices que flexibilizar sería darle una ventaja injusta frente a los compañeros.",
           "level": 0
         },
         {
@@ -205,11 +205,11 @@
           "level": 3
         },
         {
-          "text": "Bajas el nivel de exigencia del contenido para que apruebe sin dificultad.",
+          "text": "Bajas el nivel de exigencia del contenido que se le evalúa a ese estudiante para que apruebe sin dificultad, aunque con ello ya no alcance el mismo logro que se espera de los demás.",
           "level": 1
         },
         {
-          "text": "Das más tiempo en los exámenes, pero sin modificar los formatos ni documentar los ajustes.",
+          "text": "Das más tiempo al estudiante en los exámenes, pero sin modificar los formatos ni registrar estos ajustes en el PIAR, de modo que no quede documentado ni se pueda explicar a la comunidad.",
           "level": 2
         }
       ],
@@ -224,7 +224,7 @@
       "prompt": "¿Cuál es la mejor estrategia?",
       "options": [
         {
-          "text": "Reportas las inasistencias al coordinador para que se aplique el manual y esperas la sanción correspondiente.",
+          "text": "Reportas las inasistencias frecuentes al coordinador para que se aplique el manual de convivencia y esperas la sanción correspondiente, sin indagar por las causas de la ausencia ni por su situación.",
           "level": 1
         },
         {
@@ -232,11 +232,11 @@
           "level": 3
         },
         {
-          "text": "Concluyes que el estudiante no tiene interés y centras tu atención en quienes sí participan.",
+          "text": "Concluyes que el estudiante no tiene interés en estudiar por su situación familiar y centras tu atención en quienes sí participan en clase, dejando de insistirle con las actividades y con las tareas.",
           "level": 0
         },
         {
-          "text": "Le ayudas con tareas extra en el descanso, pero sin informar a otras instancias.",
+          "text": "Le ayudas con tareas extra y refuerzo durante el descanso para que nivele sus temas atrasados, pero sin informar a orientación, coordinación ni a ninguna otra instancia sobre su situación de desplazamiento.",
           "level": 2
         }
       ],
@@ -255,15 +255,15 @@
           "level": 3
         },
         {
-          "text": "Guardas el secreto para no perder su confianza y le propones hablar cada semana contigo.",
+          "text": "Guardas el secreto que te pidió para no perder su confianza, no informas a orientación ni a la familia, y le propones que hable contigo cada semana para ir viendo cómo sigue emocionalmente.",
           "level": 0
         },
         {
-          "text": "La tranquilizas, le dices que es una etapa y le pides que hable con su mamá.",
+          "text": "La tranquilizas diciéndole que lo que siente es una etapa normal de la adolescencia que pasará pronto, y le pides que hable con su mamá, sin informar a orientación ni a coordinación del colegio.",
           "level": 1
         },
         {
-          "text": "Informas a orientación después de la jornada, pero no a la familia hasta que se tenga certeza.",
+          "text": "Informas a orientación después de terminar la jornada, pero no a la familia ni a coordinación hasta que se tenga certeza de que el riesgo es real, y la dejas ir sola a su casa ese día.",
           "level": 2
         }
       ],
@@ -278,7 +278,7 @@
       "prompt": "¿Qué actuación corresponde?",
       "options": [
         {
-          "text": "Citas al padre para pedirle explicaciones y le adviertes que no puede golpear al niño.",
+          "text": "Citas al padre al colegio para pedirle explicaciones sobre los moretones y le adviertes con firmeza que no puede golpear al niño, sin reportar a orientación, rectoría ni a ninguna autoridad.",
           "level": 1
         },
         {
@@ -286,11 +286,11 @@
           "level": 3
         },
         {
-          "text": "No dices nada porque no tienes pruebas y podrías afectar a la familia.",
+          "text": "No dices nada a nadie porque no tienes pruebas de que el niño sea maltratado en casa y podrías afectar a la familia con una acusación que luego no se pueda comprobar ante las autoridades.",
           "level": 0
         },
         {
-          "text": "Hablas con el niño, le ofreces apoyo y esperas a ver si aparecen más señales.",
+          "text": "Hablas con el niño en privado, le ofreces apoyo y confianza, y esperas a ver si aparecen más señales en los próximos días antes de reportar a orientación, a rectoría o a las autoridades.",
           "level": 2
         }
       ],
@@ -305,7 +305,7 @@
       "prompt": "¿Cómo actúas desde tu rol?",
       "options": [
         {
-          "text": "Sigues usando el nombre del registro para evitar problemas, ya que así aparece en las listas.",
+          "text": "Sigues usando el nombre del registro civil para evitar problemas, ya que así aparece en las listas y en el sistema, y no intervienes ni cuando algunos compañeros la molestan por su identidad.",
           "level": 0
         },
         {
@@ -313,11 +313,11 @@
           "level": 3
         },
         {
-          "text": "Le pides discreción a la estudiante para que no genere conflictos con otros docentes.",
+          "text": "Le pides discreción a la estudiante y que no insista con el tema para que no genere conflictos con otros docentes que se niegan, sin intervenir frente a las burlas de los compañeros.",
           "level": 1
         },
         {
-          "text": "La llamas por su nombre solo en tu clase y no intervienes en lo que ocurre afuera.",
+          "text": "La llamas por su nombre identitario solo en tu clase, con respeto, pero no intervienes en lo que ocurre afuera ni reportas al comité de convivencia las burlas y la negativa de otros docentes.",
           "level": 2
         }
       ],
@@ -336,15 +336,15 @@
           "level": 3
         },
         {
-          "text": "Te quedas callado para no generar un conflicto con tus compañeros.",
+          "text": "Te quedas callado y sigues con tu café para no generar un conflicto con tus compañeros, aunque creas que el comentario sobre el estudiante y su familia es injusto y puede condicionar su proceso.",
           "level": 0
         },
         {
-          "text": "Dices que cada docente tiene su criterio y que no te corresponde opinar.",
+          "text": "Dices que cada docente tiene su propio criterio para evaluar y tratar a sus estudiantes, y que no te corresponde opinar sobre lo que piensa un colega ni sobre la situación de ese estudiante.",
           "level": 1
         },
         {
-          "text": "Le dices en privado a tu colega que no debería hablar así, sin proponer nada más.",
+          "text": "Le dices en privado a tu colega que no debería hablar así de un estudiante ni de su familia, pero no propones llevar el caso al comité de evaluación ni ninguna acción de apoyo concreta.",
           "level": 2
         }
       ],
@@ -359,7 +359,7 @@
       "prompt": "¿Qué propones?",
       "options": [
         {
-          "text": "Aceptas la propuesta para ahorrar tiempo, dado que la carga académica es alta.",
+          "text": "Aceptas la propuesta de cumplir solo en papel para ahorrar tiempo, dado que la carga académica es alta y nadie revisa, y firmas el plan sin metas reales ni responsables ni evidencias.",
           "level": 0
         },
         {
@@ -367,11 +367,11 @@
           "level": 3
         },
         {
-          "text": "Propones dividir los formatos entre los docentes para terminar rápido.",
+          "text": "Propones dividir los formatos del plan entre los docentes para terminar rápido y entregarlos a tiempo, sin revisar resultados de evaluación ni definir metas ni articularlos con el PEI.",
           "level": 1
         },
         {
-          "text": "Propones revisar las metas, pero sin definir seguimiento posterior.",
+          "text": "Propones revisar los resultados y fijar metas realistas para el área, pero sin asignar responsables ni evidencias, y sin definir ningún seguimiento posterior en las reuniones de área.",
           "level": 2
         }
       ],
@@ -386,7 +386,7 @@
       "prompt": "¿Cómo actúas?",
       "options": [
         {
-          "text": "Le señalas sus errores a coordinación para que le hagan observación.",
+          "text": "Le señalas sus errores de la primera semana a coordinación para que le hagan una observación formal, sin hablar antes con ella ni explicarle cómo funcionan el SIEE y el manual.",
           "level": 0
         },
         {
@@ -394,11 +394,11 @@
           "level": 3
         },
         {
-          "text": "Le dices que lea los documentos por su cuenta, porque así se aprende.",
+          "text": "Le dices que lea los documentos institucionales por su cuenta, porque así se aprende mejor, y no le compartes tus planeaciones ni le ofreces acompañamiento ni se lo propones a coordinación.",
           "level": 1
         },
         {
-          "text": "Le explicas lo esencial y la acompañas esta semana, sin involucrar a coordinación.",
+          "text": "Le explicas lo esencial del SIEE y del manual y la acompañas durante esta semana, pero sin involucrar a coordinación ni proponer una inducción formal para los docentes nuevos.",
           "level": 2
         }
       ],
@@ -417,15 +417,15 @@
           "level": 3
         },
         {
-          "text": "Le dices que la nota es definitiva y que no hay nada que discutir.",
+          "text": "Le dices al padre que la nota es definitiva, que la estudiante no hizo lo necesario para aprobar y que no hay nada que discutir, sin mostrar las evidencias ni informar las instancias de reclamación.",
           "level": 0
         },
         {
-          "text": "Revisas la nota y la subes un poco para evitar que el padre eleve un reclamo.",
+          "text": "Revisas la nota y la subes un poco, aunque las evidencias no lo justifiquen, para evitar que el padre eleve un reclamo formal ante coordinación y para no tener más problemas con la familia.",
           "level": 1
         },
         {
-          "text": "Muestras los registros y sugieres que busque refuerzo externo para su hija.",
+          "text": "Muestras los registros de evaluación al padre y le sugieres que busque refuerzo externo para su hija, pero no acuerdas un plan de apoyo ni le informas las instancias para reclamar la valoración.",
           "level": 2
         }
       ],
@@ -440,7 +440,7 @@
       "prompt": "¿Cómo ajustas tu práctica evaluativa?",
       "options": [
         {
-          "text": "Mantienes los exámenes porque son más fáciles de calificar y de justificar.",
+          "text": "Mantienes los exámenes escritos como casi única fuente de la nota porque son más fáciles de calificar y de justificar ante los padres, aunque el SIEE hable de una evaluación integral.",
           "level": 0
         },
         {
@@ -448,11 +448,11 @@
           "level": 3
         },
         {
-          "text": "Añades un trabajo en casa y una nota de participación sin criterios claros.",
+          "text": "Añades un trabajo en casa y una nota de participación para completar la planilla, sin criterios claros para el estudiante y sin retroalimentación que permita ajustar tu planeación.",
           "level": 1
         },
         {
-          "text": "Agregas un proyecto final y mantienes el resto igual.",
+          "text": "Agregas un proyecto final al cierre del periodo y mantienes todo lo demás igual, sin dar criterios previos al grupo ni usar los resultados para ajustar tu planeación según los DBA.",
           "level": 2
         }
       ],
@@ -467,7 +467,7 @@
       "prompt": "¿Qué corresponde hacer?",
       "options": [
         {
-          "text": "Le dices a la madre que esa información es interna y que debe esperar a la comisión de evaluación.",
+          "text": "Le dices a la madre que esa información es interna y reservada y que debe esperar a que la comisión de evaluación se reúna, sin remitir su petición ni responder dentro de los tiempos legales.",
           "level": 0
         },
         {
@@ -475,11 +475,11 @@
           "level": 3
         },
         {
-          "text": "Respondes verbalmente a la madre y le explicas la decisión sin entregar documentos.",
+          "text": "Respondes verbalmente a la madre y le explicas la decisión de pérdida del año, sin entregar ningún documento ni consolidado, y sin remitir su petición escrita a secretaría o a rectoría.",
           "level": 1
         },
         {
-          "text": "Entregas las notas de inmediato, pero no los soportes del proceso.",
+          "text": "Entregas las notas de inmediato a la madre, pero no los soportes del proceso de seguimiento ni de los apoyos ofrecidos, y no la orientas sobre las instancias donde puede reclamar la decisión.",
           "level": 2
         }
       ],
@@ -498,15 +498,15 @@
           "level": 3
         },
         {
-          "text": "Les gritas que se detengan y sigues con tu ronda, dado que no hubo golpes.",
+          "text": "Les gritas desde lejos que se detengan y sigues con tu ronda de vigilancia, dado que no hubo golpes, sin verificar cómo quedó el niño de sexto ni recoger versiones ni reportar a nadie.",
           "level": 1
         },
         {
-          "text": "Dejas que resuelvan entre ellos, porque son cosas de niños.",
+          "text": "Dejas que resuelvan el asunto entre ellos, porque son cosas de niños y a esa edad se arreglan solos, y sigues con tu ronda sin hablar con nadie ni reportar lo que viste en el patio.",
           "level": 0
         },
         {
-          "text": "Los llevas a coordinación en el acto y dejas la vigilancia del patio sin cobertura.",
+          "text": "Los llevas a coordinación en el acto, a los tres y al niño de sexto, y dejas la vigilancia del patio sin cobertura, sin verificar si alguno resultó lesionado ni recoger versiones por separado.",
           "level": 2
         }
       ],
@@ -521,7 +521,7 @@
       "prompt": "¿Qué haces?",
       "options": [
         {
-          "text": "Lo levantas, le pones hielo y lo mandas a clase para ver si se le pasa.",
+          "text": "Lo levantas del piso, le pones hielo en el brazo y lo mandas de vuelta a clase para ver si se le pasa el dolor, sin avisar a coordinación ni a la familia ni dejar constancia.",
           "level": 0
         },
         {
@@ -529,11 +529,11 @@
           "level": 3
         },
         {
-          "text": "Llamas a la familia y esperas a que lo recojan sin avisar a nadie más.",
+          "text": "Llamas a la familia y esperas con el estudiante a que lo recojan, pero sin avisar a coordinación ni activar el protocolo de primeros auxilios, y sin dejar constancia escrita del incidente.",
           "level": 1
         },
         {
-          "text": "Lo llevas tú mismo a la enfermería y luego informas a la familia al final de la jornada.",
+          "text": "Lo levantas y lo llevas tú mismo a la enfermería para que lo revisen, y solo informas a la familia al final de la jornada, sin avisar a coordinación ni dejar constancia del incidente.",
           "level": 2
         }
       ],
@@ -548,7 +548,7 @@
       "prompt": "¿Cómo reorganizas la clase?",
       "options": [
         {
-          "text": "Mantienes el esquema actual porque a las niñas «no les gusta» el fútbol.",
+          "text": "Mantienes el esquema actual de juego porque a las niñas «no les gusta» el fútbol, según dices, y dejas que los varones sigan usando la cancha mientras ellas continúan en la banca.",
           "level": 0
         },
         {
@@ -556,11 +556,11 @@
           "level": 3
         },
         {
-          "text": "Dividen el curso por género, con cancha para cada uno.",
+          "text": "Divides el curso por género y asignas una cancha a los varones y otra a las niñas, sin cambiar las reglas de juego ni hablar con el grupo sobre equidad ni sobre el respeto.",
           "level": 1
         },
         {
-          "text": "Das un turno a las niñas al final de la clase, cuando queda tiempo.",
+          "text": "Das un turno a las niñas al final de la clase, cuando queda tiempo, sin cambiar la organización ni las reglas de la actividad y sin conversar con el curso sobre la equidad.",
           "level": 2
         }
       ],
@@ -579,15 +579,15 @@
           "level": 3
         },
         {
-          "text": "Dejas la lectura como tarea para la casa porque en el colegio no hay condiciones.",
+          "text": "Dejas la lectura como tarea para la casa porque en el colegio no hay condiciones, ya que la biblioteca está desordenada, y no planeas ninguna actividad lectora con los niños en el aula.",
           "level": 0
         },
         {
-          "text": "Llevas a los niños a la biblioteca una vez al mes a leer libremente.",
+          "text": "Llevas a los niños a la biblioteca una vez al mes a leer libremente lo que encuentren, sin hablar con el bibliotecario ni con el equipo de lengua y sin estrategias de mediación ni seguimiento.",
           "level": 1
         },
         {
-          "text": "Creas un rincón de lectura en tu salón con libros que tú mismo consigues.",
+          "text": "Creas un rincón de lectura en tu salón con libros que tú mismo consigues y gestionas por tu cuenta, sin articularlo con el PEI, con el equipo de lengua ni con la biblioteca del colegio.",
           "level": 2
         }
       ],
@@ -602,7 +602,7 @@
       "prompt": "¿Cómo lo abordas?",
       "options": [
         {
-          "text": "Lo calificas con cero y lo registras en el observador sin más explicación.",
+          "text": "Lo calificas con cero y lo registras en el observador del estudiante, sin más explicación, sin dialogar con él sobre lo ocurrido ni enseñarle a citar y parafrasear las fuentes.",
           "level": 1
         },
         {
@@ -610,11 +610,11 @@
           "level": 3
         },
         {
-          "text": "Dejas pasar el trabajo porque casi todos los estudiantes lo hacen.",
+          "text": "Dejas pasar el trabajo copiado sin decir nada, porque casi todos los estudiantes lo hacen, y lo calificas como cualquier otro, sin hablar con él ni con la familia ni registrar lo ocurrido.",
           "level": 0
         },
         {
-          "text": "Le pides rehacer el trabajo y lo calificas sin hablar del tema.",
+          "text": "Le pides rehacer el trabajo por su cuenta y lo calificas cuando lo entregue, sin hablar del tema con él, sin enseñarle a citar ni documentar el proceso ni definir criterios claros.",
           "level": 2
         }
       ],
@@ -629,7 +629,7 @@
       "prompt": "¿Qué propones en el consejo académico?",
       "options": [
         {
-          "text": "Propones guardar los equipos hasta que haya un funcionario encargado.",
+          "text": "Propones guardar los equipos y los libros nuevos bajo llave hasta que haya un funcionario encargado, y dejar los asuntos de formación docente y uso pedagógico para el próximo año.",
           "level": 0
         },
         {
@@ -637,11 +637,11 @@
           "level": 3
         },
         {
-          "text": "Propones dejar libre acceso a los estudiantes sin control para que aprovechen.",
+          "text": "Propones dejar libre acceso a los estudiantes a los equipos y libros, sin control ni horarios ni responsables, para que los aprovechen, sin formación a los docentes ni seguimiento.",
           "level": 1
         },
         {
-          "text": "Propones abrir la biblioteca solo en las horas en que haya un docente libre.",
+          "text": "Propones abrir la biblioteca solo en las horas en que haya un docente libre, sin horarios fijos ni formación entre pares, y sin metas de uso pedagógico ni registro de seguimiento.",
           "level": 2
         }
       ],
@@ -658,7 +658,7 @@
       "prompt": "¿Cómo manejas la situación como coordinador?",
       "options": [
         {
-          "text": "Le pides al docente que no se presente hoy para calmar los ánimos.",
+          "text": "Le pides al docente acusado que no se presente hoy al colegio para calmar los ánimos de los padres, sin recibir la queja ni informar al rector ni garantizar el debido proceso para él.",
           "level": 1
         },
         {
@@ -666,11 +666,11 @@
           "level": 3
         },
         {
-          "text": "Llamas a la policía para que despeje la entrada.",
+          "text": "Llamas de inmediato a la policía para que despeje la entrada por la fuerza, sin dialogar con los voceros de los padres ni recibir su queja, mientras los estudiantes siguen esperando afuera.",
           "level": 0
         },
         {
-          "text": "Les dices que el rector los atenderá más tarde y que despejen la puerta.",
+          "text": "Les dices a los padres que el rector los atenderá más tarde y que despejen la puerta para que entren los estudiantes, sin dialogar con los voceros ni recibir su queja por escrito.",
           "level": 2
         }
       ],
@@ -685,7 +685,7 @@
       "prompt": "¿Qué decides?",
       "options": [
         {
-          "text": "Le dices que eso es un asunto familiar y que debe acudir a la policía.",
+          "text": "Le dices a la madre que eso es un asunto familiar y privado que no corresponde al colegio, y que debe acudir a la policía, sin registrar el caso ni informar a rectoría ni a orientación ni al vigilante.",
           "level": 0
         },
         {
@@ -693,11 +693,11 @@
           "level": 3
         },
         {
-          "text": "Le pides al vigilante que esté atento y no entregue a la niña a nadie.",
+          "text": "Le pides al vigilante que esté atento y que no entregue a la joven a nadie, sin registrar el caso, sin informar a rectoría ni a orientación y sin orientar a la familia para que denuncie ante las autoridades.",
           "level": 1
         },
         {
-          "text": "Avisas a la directora de grupo y que ella acompañe a la estudiante.",
+          "text": "Avisas a la directora de grupo y le pides que acompañe a la estudiante en la salida, sin registrar el caso, sin informar a rectoría, ni al vigilante, ni orientar a la familia para que denuncie ante las autoridades.",
           "level": 2
         }
       ],
@@ -712,7 +712,7 @@
       "prompt": "¿Cómo actúas?",
       "options": [
         {
-          "text": "Le explicas al acudiente que debe regularizar los documentos antes de volver.",
+          "text": "Le explicas al acudiente que debe regularizar todos los documentos del estudiante antes de volver a pedir el cupo, sin orientarlo con la secretaría ni con la Secretaría de Educación sobre el proceso de matrícula.",
           "level": 1
         },
         {
@@ -720,11 +720,11 @@
           "level": 3
         },
         {
-          "text": "Le dices que no hay cupos para evitar el trámite.",
+          "text": "Le dices al acudiente que por ahora no hay cupos disponibles en grado sexto, para evitar el trámite de matrícula de un estudiante migrante sin documentos completos, y que no vuelva a preguntar por el cupo.",
           "level": 0
         },
         {
-          "text": "Lo recibes provisionalmente un día y le piden volver con papeles.",
+          "text": "Recibes al estudiante provisionalmente solo por un día en clase, y luego le piden al acudiente volver con todos los papeles completos, sin orientar el proceso con la secretaría ni capacitar a la portería.",
           "level": 2
         }
       ],
@@ -739,7 +739,7 @@
       "prompt": "¿Cómo intervienes?",
       "options": [
         {
-          "text": "Pides al docente rebajar la exigencia para mejorar los resultados.",
+          "text": "Pides al docente rebajar la exigencia de sus evaluaciones para mejorar los resultados de matemáticas del periodo, sin revisar su planeación, sus criterios ni sus evidencias, ni acordar un plan de mejoramiento.",
           "level": 0
         },
         {
@@ -747,11 +747,11 @@
           "level": 3
         },
         {
-          "text": "Citas al docente a un llamado de atención por escrito.",
+          "text": "Citas al docente a un llamado de atención por escrito por los resultados del grupo, sin revisar su planeación ni criterios ni evidencias, y sin acordar un plan de mejoramiento con acompañamiento al aula.",
           "level": 1
         },
         {
-          "text": "Convocas a una reunión del área para discutir los resultados, sin acuerdos concretos.",
+          "text": "Convocas a una reunión del área para discutir los resultados de matemáticas de grado noveno, pero sin acuerdos concretos, sin acompañamiento al aula ni seguimiento, ni llevar el tema al consejo académico.",
           "level": 2
         }
       ],
@@ -766,7 +766,7 @@
       "prompt": "¿Cómo orientas la decisión?",
       "options": [
         {
-          "text": "Promueves al estudiante por tener discapacidad, sin revisar los avances.",
+          "text": "Promueves al estudiante por tener discapacidad y para evitar una discusión con la familia, sin revisar los ajustes del PIAR, los avances ni las evidencias, ni documentar la decisión y el plan de apoyo.",
           "level": 0
         },
         {
@@ -774,11 +774,11 @@
           "level": 3
         },
         {
-          "text": "Dejas la decisión en cada docente de área, según el criterio de cada uno.",
+          "text": "Dejas la decisión en cada docente de área, según el criterio de cada uno, sin revisar el PIAR en conjunto, sin verificar los apoyos aplicados ni documentar la decisión ni informar a la familia.",
           "level": 1
         },
         {
-          "text": "Aplicas el SIEE general sin considerar el PIAR y ofreces actividades de recuperación.",
+          "text": "Aplicas el SIEE general como para cualquier estudiante, sin considerar los ajustes del PIAR ni verificar los apoyos recibidos, y ofreces actividades de recuperación sin informar a la familia ni documentar.",
           "level": 2
         }
       ],
@@ -793,7 +793,7 @@
       "prompt": "¿Qué estrategia de gestión académica aplicas?",
       "options": [
         {
-          "text": "Envías un correo general recordando que hay que cumplir con los DBA.",
+          "text": "Envías un correo general recordando a todos los docentes que hay que cumplir con los DBA y con el PEI, sin jornadas de trabajo por área, sin acompañamiento al aula ni compromisos de mejora concretos.",
           "level": 1
         },
         {
@@ -801,11 +801,11 @@
           "level": 3
         },
         {
-          "text": "Solicitas a los docentes entregar planeaciones nuevas en una semana, so pena de reporte.",
+          "text": "Solicitas a los docentes entregar planeaciones nuevas en una semana, so pena de reporte a rectoría, sin jornadas de trabajo por área ni acompañamiento al aula ni retroalimentación con evidencias.",
           "level": 0
         },
         {
-          "text": "Revisas las planeaciones y devuelves con observaciones sin acompañamiento posterior.",
+          "text": "Revisas las planeaciones una por una y las devuelves con observaciones escritas, pero sin jornadas de actualización por área, sin acompañamiento posterior al aula ni compromisos de mejora.",
           "level": 2
         }
       ],
@@ -820,7 +820,7 @@
       "prompt": "¿Cómo manejas el caso?",
       "options": [
         {
-          "text": "Suspendes a ambos por tres días de acuerdo con el manual y pides a las familias que los recojan.",
+          "text": "Suspendes a ambos por tres días de acuerdo con el manual y pides a las familias que los recojan, sin atender primero la lesión, sin escuchar versiones, ni revisar el hostigamiento previo ni reportar al comité de convivencia.",
           "level": 1
         },
         {
@@ -828,11 +828,11 @@
           "level": 3
         },
         {
-          "text": "Los obligas a darse la mano y a firmar un compromiso de no repetir.",
+          "text": "Los obligas a darse la mano frente a todos y a firmar un compromiso de no repetir la pelea, sin atender la lesión del labio ni escuchar a ambos ni clasificar la situación según el Decreto 1965, ni informar a los acudientes.",
           "level": 0
         },
         {
-          "text": "Atiendes la lesión, citas a las familias y aplicas la sanción correspondiente, sin revisar el contexto.",
+          "text": "Atiendes la lesión, citas a las familias y aplicas la sanción que corresponde según el manual, sin revisar el contexto ni el hostigamiento previo, sin clasificar la situación según el Decreto 1965 ni reportar al comité.",
           "level": 2
         }
       ],
@@ -847,7 +847,7 @@
       "prompt": "¿Qué actuación corresponde?",
       "options": [
         {
-          "text": "Hablas con el docente para que explique y le pides que no vuelva a escribirle.",
+          "text": "Hablas con el docente para que explique los mensajes y le pides que no vuelva a escribirle a la estudiante, sin conservar las evidencias ni informar a rectoría ni activar la ruta de atención ni reportar.",
           "level": 1
         },
         {
@@ -855,11 +855,11 @@
           "level": 3
         },
         {
-          "text": "Guardas la reserva solicitada y esperas a tener más pruebas.",
+          "text": "Guardas la reserva que la estudiante te pidió y esperas a tener más pruebas antes de actuar, sin informar a rectoría ni a la familia ni activar la ruta de atención, ni reportar a las autoridades.",
           "level": 0
         },
         {
-          "text": "Informas a rectoría y dejas que la rectora decida qué hacer.",
+          "text": "Informas a rectoría y dejas que la rectora decida qué hacer con el caso, sin garantizar la protección de la estudiante, ni informar a la familia, ni reportar a las autoridades competentes ni al ente disciplinario.",
           "level": 2
         }
       ],
@@ -874,7 +874,7 @@
       "prompt": "¿Qué haces para fortalecer la gestión de la convivencia?",
       "options": [
         {
-          "text": "Pides que los directores de grupo lleven los casos y reporten solo lo grave.",
+          "text": "Pides que los directores de grupo lleven los casos y reporten solo lo grave, sin convocar al comité, sin cronograma de sesiones, sin revisar los casos pendientes con actas ni formar a los docentes en la ruta de atención.",
           "level": 1
         },
         {
@@ -882,11 +882,11 @@
           "level": 3
         },
         {
-          "text": "Esperas a que haya un caso grave para convocar al comité.",
+          "text": "Esperas a que haya un caso grave para convocar al comité de convivencia, y mientras tanto dejas que cada docente siga manejando los conflictos a su manera, sin actas, sin cronograma ni seguimiento a los casos de acoso pendientes.",
           "level": 0
         },
         {
-          "text": "Convocas al comité una vez para ponerse al día y dejas pendientes los demás temas.",
+          "text": "Convocas al comité una sola vez para ponerse al día con algunos casos y dejas pendientes los demás temas, sin cronograma de sesiones, sin ajustar el manual ni organizar formación sobre la ruta de atención ni escuelas de familias.",
           "level": 2
         }
       ],
@@ -901,7 +901,7 @@
       "prompt": "¿Cómo respondes?",
       "options": [
         {
-          "text": "Firmas para evitar un conflicto con tu jefe, ya que es solo un trámite.",
+          "text": "Firmas el acta para evitar un conflicto con tu jefe, ya que es solo un trámite que la Secretaría de Educación exige, aunque no hayas estado en la reunión del consejo directivo.",
           "level": 0
         },
         {
@@ -909,11 +909,11 @@
           "level": 3
         },
         {
-          "text": "Te niegas sin dar más explicación y te retiras.",
+          "text": "Te niegas a firmar el acta sin dar más explicación al rector y te retiras de la oficina, sin proponer realizar la sesión ni dejar constancia veraz ni ofrecer apoyo con el requisito.",
           "level": 1
         },
         {
-          "text": "Firmas, pero dejas una anotación personal de que no estuviste.",
+          "text": "Firmas el acta, pero dejas una anotación personal de que no estuviste en la reunión, sin proponer realizar la sesión ni una constancia veraz ante la Secretaría ni ayudar a cumplir el requisito.",
           "level": 2
         }
       ],
@@ -928,7 +928,7 @@
       "prompt": "¿Cómo organizas el proceso?",
       "options": [
         {
-          "text": "Redactas la propuesta con un pequeño equipo y la presentas para aprobación.",
+          "text": "Redactas la propuesta con un pequeño equipo de confianza y la presentas al consejo directivo para su aprobación, sin diagnóstico, sin mesas con estudiantes, familias ni personero y sin socializar borradores.",
           "level": 1
         },
         {
@@ -936,11 +936,11 @@
           "level": 3
         },
         {
-          "text": "Copias el manual de otro colegio y lo adaptas rápidamente.",
+          "text": "Copias el manual de convivencia de otro colegio y lo adaptas rápidamente para cumplir con el plazo, sin hacer diagnóstico ni mesas con docentes, estudiantes, familias y personero, ni aprobación en actas.",
           "level": 0
         },
         {
-          "text": "Haces una consulta con encuesta y luego redactas por tu cuenta el documento.",
+          "text": "Haces una consulta con una encuesta breve a la comunidad y luego redactas por tu cuenta el documento, sin mesas de trabajo, sin socializar borradores ni horarios flexibles, y lo llevas al consejo directivo.",
           "level": 2
         }
       ],
@@ -955,7 +955,7 @@
       "prompt": "¿Cómo atiendes la situación?",
       "options": [
         {
-          "text": "Le dices que todos los docentes están igual y que debe ajustarse.",
+          "text": "Le dices a la docente que todos los docentes están igual de sobrecargados y que debe ajustarse a la situación, sin revisar su asignación académica ni presentar nada a rectoría ni informarle las instancias.",
           "level": 0
         },
         {
@@ -963,11 +963,11 @@
           "level": 3
         },
         {
-          "text": "Le prometes un cambio, pero lo dejas para el próximo año.",
+          "text": "Le prometes un cambio en su asignación académica, pero lo dejas para el próximo año sin revisar la normativa ni presentar el análisis a rectoría, sin respuesta escrita ni informar las instancias.",
           "level": 1
         },
         {
-          "text": "Reorganizas su horario sin consultar con rectoría ni con otros docentes.",
+          "text": "Reorganizas su horario por tu cuenta para aliviar la sobrecarga, sin consultar con rectoría ni con otros docentes, sin revisar la normativa y sin responderle por escrito ni informarle las instancias.",
           "level": 2
         }
       ],
@@ -982,7 +982,7 @@
       "prompt": "¿Cómo manejas la retroalimentación?",
       "options": [
         {
-          "text": "Registras todo en el formato de evaluación y se lo entregas sin conversar.",
+          "text": "Registras todo lo observado en el formato de evaluación y se lo entregas por escrito sin conversar con él, sin reconocer fortalezas, sin acordar metas de mejora ni programar un nuevo acompañamiento al aula.",
           "level": 1
         },
         {
@@ -990,11 +990,11 @@
           "level": 3
         },
         {
-          "text": "No dices nada porque es cumplidor y no quieres afectar su evaluación.",
+          "text": "No dices nada al docente sobre la clase monótona porque es muy cumplidor y no quieres afectar su evaluación, y dejas pasar la observación sin dialogar ni acordar metas ni un nuevo acompañamiento.",
           "level": 0
         },
         {
-          "text": "Le sugieres cambiar de metodología, pero no defines seguimiento.",
+          "text": "Le sugieres al docente cambiar de metodología hacia estrategias más activas en una charla breve, pero no defines metas ni seguimiento ni un nuevo acompañamiento, ni presentas las evidencias de lo que observaste.",
           "level": 2
         }
       ],
@@ -1009,7 +1009,7 @@
       "prompt": "¿Qué decisión tomas?",
       "options": [
         {
-          "text": "Le pides al docente que ya no saque al estudiante, sin más explicación.",
+          "text": "Le pides al docente que ya no saque al estudiante del salón cuando se mueve, sin más explicación, sin revisar el PIAR ni acordar estrategias ni apoyos con la docente de apoyo ni hacer seguimiento.",
           "level": 1
         },
         {
@@ -1017,11 +1017,11 @@
           "level": 3
         },
         {
-          "text": "Le dices a los padres que el docente tiene autonomía en su aula.",
+          "text": "Le dices a los padres que el docente tiene autonomía en su aula para manejar la disciplina, y que no es posible intervenir ni revisar el PIAR, sin escuchar la queja ni hacer seguimiento ni registrar compromisos.",
           "level": 0
         },
         {
-          "text": "Reúnes a las partes y propones que el estudiante se siente cerca de la puerta.",
+          "text": "Reúnes a las partes y propones que el estudiante se siente cerca de la puerta para moverse sin interrumpir, sin revisar el PIAR, sin apoyos de la docente de apoyo ni seguimiento ni registro de compromisos.",
           "level": 2
         }
       ],
@@ -1036,7 +1036,7 @@
       "prompt": "¿Cómo garantizas la continuidad pedagógica?",
       "options": [
         {
-          "text": "Dejas a los estudiantes en el patio para evitar desorden en los salones.",
+          "text": "Dejas a los estudiantes de sexto en el patio para evitar desorden en los salones durante los tres días, sin guías del área ni docentes de apoyo ni comunicación a las familias ni gestión del reemplazo.",
           "level": 0
         },
         {
@@ -1044,11 +1044,11 @@
           "level": 3
         },
         {
-          "text": "Asignas a un estudiante líder para que se encargue del grupo.",
+          "text": "Asignas a un estudiante líder para que se encargue del grupo mientras vuelve la docente, sin guías de trabajo, sin docentes de apoyo, sin comunicar a las familias ni gestionar el reemplazo ante la Secretaría.",
           "level": 1
         },
         {
-          "text": "Asignas docentes de otras áreas para cuidar al grupo mientras tanto.",
+          "text": "Asignas docentes de otras áreas para cuidar al grupo mientras tanto, sin guías diseñadas por el área, sin seguimiento a la tarea ni comunicación a las familias ni gestión del reemplazo ante la Secretaría.",
           "level": 2
         }
       ],
@@ -1063,7 +1063,7 @@
       "prompt": "¿Cómo decides?",
       "options": [
         {
-          "text": "Le sugieres buscar una institución especializada, que sería mejor para su hijo.",
+          "text": "Le sugieres a la madre buscar una institución especializada, que sería mejor para su hijo con discapacidad intelectual, y no garantizas la matrícula, sin convocar al equipo ni elaborar el PIAR con ella.",
           "level": 0
         },
         {
@@ -1071,11 +1071,11 @@
           "level": 3
         },
         {
-          "text": "Aceptas la matrícula, pero sin definir apoyos hasta ver cómo se adapta.",
+          "text": "Aceptas la matrícula, pero sin definir apoyos hasta ver cómo se adapta el estudiante, sin convocar al equipo de orientación y docentes de apoyo, ni elaborar el PIAR con la familia ni gestionar formación.",
           "level": 1
         },
         {
-          "text": "Aceptas la matrícula y pides a la docente de apoyo que lo atienda aparte.",
+          "text": "Aceptas la matrícula y pides a la docente de apoyo que lo atienda aparte del grupo, sin elaborar el PIAR con la familia ni planear los ajustes con los docentes, ni gestionar formación ante la Secretaría.",
           "level": 2
         }
       ],
@@ -1090,7 +1090,7 @@
       "prompt": "¿Qué estrategia propones?",
       "options": [
         {
-          "text": "Reportas a todos al ICBF sin hablar con las familias.",
+          "text": "Reportas a todos los estudiantes con inasistencia al ICBF sin hablar antes con las familias, sin analizar los casos con orientación, sin flexibilizar actividades ni hacer seguimiento a la permanencia escolar.",
           "level": 1
         },
         {
@@ -1098,11 +1098,11 @@
           "level": 3
         },
         {
-          "text": "Aplicas la pérdida por inasistencia según el manual.",
+          "text": "Aplicas la pérdida por inasistencia según el manual a todos los estudiantes que trabajan, dando la razón al comité sobre la falta de compromiso familiar, sin analizar los casos ni contactar a las familias ni flexibilizar.",
           "level": 0
         },
         {
-          "text": "Haces llamados telefónicos a las familias y envías citaciones.",
+          "text": "Haces llamados telefónicos a las familias y envías citaciones formales al colegio para exigir asistencia, sin analizar los casos con orientación, sin flexibilizar actividades ni articular con la Secretaría de Educación.",
           "level": 2
         }
       ],
@@ -1117,7 +1117,7 @@
       "prompt": "¿Cómo la rediseñas?",
       "options": [
         {
-          "text": "Haces las reuniones obligatorias con firma de asistencia.",
+          "text": "Haces las reuniones de la escuela de familias obligatorias con firma de asistencia, sin consultar a las familias sobre sus necesidades, sin metodologías participativas ni vincular a la asociación de padres ni evaluar el impacto.",
           "level": 0
         },
         {
@@ -1125,11 +1125,11 @@
           "level": 3
         },
         {
-          "text": "Cambias el horario de las reuniones y envías más citaciones.",
+          "text": "Cambias el horario de las reuniones y envías más citaciones a las familias, pero mantienes el formato de conferencia, sin consultarlas sobre sus necesidades ni usar metodologías participativas ni evaluar el impacto.",
           "level": 1
         },
         {
-          "text": "Mantienes los mismos temas, pero agregas refrigerio y rifas.",
+          "text": "Mantienes los mismos temas de las conferencias, pero agregas refrigerio y rifas para atraer a más familias, sin consultarlas sobre sus necesidades, sin metodologías participativas ni evaluar el impacto con indicadores.",
           "level": 2
         }
       ],
@@ -1144,7 +1144,7 @@
       "prompt": "¿Qué decides?",
       "options": [
         {
-          "text": "Respetas la decisión de la familia, pues es su derecho, y haces seguimiento en el colegio.",
+          "text": "Respetas la decisión de la familia de no acudir a salud, pues es su derecho, y haces seguimiento solo en el colegio, sin activar la ruta de atención, sin gestionar con la EPS ni la Comisaría de Familia.",
           "level": 1
         },
         {
@@ -1152,11 +1152,11 @@
           "level": 3
         },
         {
-          "text": "Le pides al docente de grupo que vigile al estudiante y no lo divulgue.",
+          "text": "Le pides al docente de grupo que vigile al estudiante y que no divulgue su situación, sin activar la ruta de atención, sin informar a rectoría ni convocar a la familia ni gestionar con la EPS ni con la Comisaría.",
           "level": 0
         },
         {
-          "text": "Insistes con la familia una vez más y si se niegan, das por cerrado el tema.",
+          "text": "Insistes con la familia una vez más para que acuda a salud y, si se niegan de nuevo, das por cerrado el tema, sin activar la ruta de atención, sin gestionar con la EPS ni la Comisaría ni un plan de acompañamiento.",
           "level": 2
         }
       ],
@@ -1171,7 +1171,7 @@
       "prompt": "¿Cómo actúas?",
       "options": [
         {
-          "text": "Cancelas la matrícula de los estudiantes involucrados para dar ejemplo.",
+          "text": "Cancelas de inmediato la matrícula de los estudiantes involucrados para dar ejemplo a la comunidad, sin informar a las familias ni aplicar la ruta de atención ni remitir a salud, y sin estrategias de prevención.",
           "level": 0
         },
         {
@@ -1179,11 +1179,11 @@
           "level": 3
         },
         {
-          "text": "Aplicas una suspensión y una charla grupal sobre drogas.",
+          "text": "Aplicas una suspensión a los estudiantes involucrados y organizas una charla grupal sobre drogas, sin remitir a salud ni a entidades de protección, sin evitar la estigmatización ni desarrollar prevención con la comunidad.",
           "level": 1
         },
         {
-          "text": "Manejas el caso internamente con orientación para proteger la imagen del colegio.",
+          "text": "Manejas el caso internamente con orientación para proteger la imagen del colegio, sin informar a las familias, sin remitir a salud ni entidades de protección, ni estrategias de prevención con toda la comunidad.",
           "level": 2
         }
       ],
@@ -1198,7 +1198,7 @@
       "prompt": "¿Qué decisión tomas?",
       "options": [
         {
-          "text": "Aceptas que cambie de jornada para evitar comentarios.",
+          "text": "Aceptas que la estudiante cambie a la jornada nocturna para evitar comentarios de otros docentes, sin garantizar su permanencia en la jornada regular, sin coordinar con orientación y salud ni sensibilizar a la comunidad.",
           "level": 1
         },
         {
@@ -1206,11 +1206,11 @@
           "level": 3
         },
         {
-          "text": "Le sugieres retirarse hasta que dé a luz para que no se afecte su salud.",
+          "text": "Le sugieres a la estudiante retirarse del colegio hasta que dé a luz, para que no se afecte su salud, sin garantizar su permanencia, sin coordinar controles prenatales ni flexibilizar tareas ni sensibilizar a la comunidad.",
           "level": 0
         },
         {
-          "text": "La mantienes en el colegio, pero sin cambios ni apoyos adicionales.",
+          "text": "La mantienes en el colegio, pero sin cambios ni apoyos adicionales, sin coordinar con orientación y salud los controles prenatales, sin flexibilizar tareas ni evaluaciones ni sensibilizar a la comunidad.",
           "level": 2
         }
       ],
@@ -1225,7 +1225,7 @@
       "prompt": "¿Cuál es tu actuación?",
       "options": [
         {
-          "text": "Te unes al grupo y separas a los que peleaban, regañándolos frente a todos.",
+          "text": "Te unes al grupo y separas a los que peleaban, regañándolos frente a todos los estudiantes, sin atender las lesiones, sin evitar la difusión de videos, sin recoger versiones ni activar la ruta del Decreto 1965.",
           "level": 1
         },
         {
@@ -1233,11 +1233,11 @@
           "level": 3
         },
         {
-          "text": "Pides que ya terminen y llamas a la policía de infancia para que se encargue.",
+          "text": "Pides a los estudiantes que ya terminen la pelea y llamas a la policía de infancia para que se encargue, sin apoyar la contención con los docentes, sin atender lesiones ni recoger versiones ni activar la ruta del Decreto 1965.",
           "level": 0
         },
         {
-          "text": "Separas la pelea y envías a los involucrados a sus casas.",
+          "text": "Separas la pelea y envías a los involucrados a sus casas ese mismo día, sin atender las lesiones, sin llamar a las familias ni recoger versiones por separado, sin evitar la difusión de videos ni activar la ruta.",
           "level": 2
         }
       ],
@@ -1252,7 +1252,7 @@
       "prompt": "¿Qué mejora propones?",
       "options": [
         {
-          "text": "Pides a los docentes estar más atentos y a los estudiantes portarse bien.",
+          "text": "Pides a los docentes estar más atentos durante los descansos y a los estudiantes portarse bien, sin rediseñar el espacio por edades, sin turnos con roles claros ni juegos dirigidos ni incluir el tema en el PMI.",
           "level": 0
         },
         {
@@ -1260,11 +1260,11 @@
           "level": 3
         },
         {
-          "text": "Reduces el tiempo de descanso para disminuir los incidentes.",
+          "text": "Reduces el tiempo de descanso para disminuir los incidentes en el patio, sin zonas diferenciadas por edades, sin turnos de vigilancia con roles claros ni formación en mediación ni participación de los estudiantes.",
           "level": 1
         },
         {
-          "text": "Agregas dos docentes de turno, pero sin cambiar la organización.",
+          "text": "Agregas dos docentes de turno al patio, pero sin cambiar la organización de los descansos, sin zonas por edades, sin roles claros ni juegos dirigidos ni participación del personero y sin incluirlo en el PMI.",
           "level": 2
         }
       ],
@@ -1279,7 +1279,7 @@
       "prompt": "¿Qué decides?",
       "options": [
         {
-          "text": "Autorizas la salida porque ya está programada y avisas a los padres durante el trayecto.",
+          "text": "Autorizas la salida porque ya está programada y avisas a los padres durante el trayecto, sin contar con autorizaciones escritas, sin verificar transporte legal ni seguro ni docentes acompañantes ni aprobación de rectoría.",
           "level": 0
         },
         {
@@ -1287,11 +1287,11 @@
           "level": 3
         },
         {
-          "text": "Llevas solo a los estudiantes con autorización y dejas a los demás en el salón sin actividad.",
+          "text": "Llevas solo a los estudiantes con autorización y dejas a los demás en el salón sin actividad, sin verificar el transporte legal, el seguro, los docentes acompañantes ni la aprobación de rectoría.",
           "level": 1
         },
         {
-          "text": "Pides las autorizaciones el mismo día y sales si la mayoría las entrega.",
+          "text": "Pides las autorizaciones el mismo día y sales si la mayoría las entrega, sin verificar el transporte legal, el seguro ni los docentes acompañantes, sin aprobación de rectoría ni actividad alterna para quienes no vayan.",
           "level": 2
         }
       ],
