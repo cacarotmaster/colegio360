@@ -60,6 +60,7 @@ export default function App() {
   const [simIdx, setSimIdx] = useState(0)
   const [simResult, setSimResult] = useState<{ score: number; byZone: Record<string, { ok: number; total: number }> } | null>(null)
   const simAnswersRef = useRef<number[]>([])
+  const simDoneRef = useRef(false)
 
   useEffect(() => {
     if (progress) saveProgress(progress)
@@ -152,6 +153,7 @@ export default function App() {
     const items = shuffled(pool).slice(0, Math.min(40, pool.length)).map((c) => ({ ...c, options: shuffled(c.options) }))
     if (!items.length) return
     setSimItems(items)
+    simDoneRef.current = false
     simAnswersRef.current = Array(items.length).fill(-1)
     setSimAnswers(Array(items.length).fill(-1))
     setSimIdx(0)
@@ -160,6 +162,8 @@ export default function App() {
   }
 
   function finishSim() {
+    if (simDoneRef.current) return
+    simDoneRef.current = true
     const res = gradeSim(simItems, simAnswersRef.current)
     setSimResult(res)
     setProgress((p) => (p ? { ...p, simBest: Math.max(p.simBest, res.score), simCount: p.simCount + 1 } : p))

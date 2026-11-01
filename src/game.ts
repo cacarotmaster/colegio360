@@ -46,17 +46,19 @@ export function loadProgress(): Progress | null {
       const n = Number(v)
       return Number.isFinite(n) ? Math.max(0, Math.min(100, Math.round(n))) : fallback
     }
+    const answers = p.answers
+      .filter((a: any) => a && typeof a.caseId === 'string' && validZones.has(a.zone) && a.level >= 0 && a.level <= 3)
+      .map((a: any) => ({ ...a, level: Number(a.level), chosen: Number(a.chosen) || 0, best: Number(a.level) === 3 }))
+    const xp = answers.reduce((acc: number, a: any) => acc + (LEVELS[a.level]?.score ?? 0), 0)
     return {
       ...newProgress(typeof p.name === 'string' ? p.name : 'Participante', role),
-      xp: Math.max(0, Number(p.xp) || 0),
+      xp,
       climate: num(p.climate, 60),
       learning: num(p.learning, 60),
       management: num(p.management, 60),
       evidence: Array.isArray(p.evidence) ? p.evidence.filter((e: any) => typeof e === 'string') : [],
       zonesDone: Array.isArray(p.zonesDone) ? p.zonesDone.filter((z: any) => validZones.has(z)) : [],
-      answers: p.answers
-        .filter((a: any) => a && typeof a.caseId === 'string' && validZones.has(a.zone) && a.level >= 0 && a.level <= 3)
-        .map((a: any) => ({ ...a, level: Number(a.level), chosen: Number(a.chosen) || 0, best: Number(a.level) === 3 })),
+      answers,
       simBest: Math.max(0, Math.min(100, Number(p.simBest) || 0)),
       simCount: Math.max(0, Number(p.simCount) || 0),
     }
@@ -97,11 +99,10 @@ export function applyAnswer(p: Progress, item: CaseItem, chosen: number): Progre
     }
   }
 
-  const prev = p.answers.find((a) => a.caseId === item.id)
-  const before = contribution(prev ? prev.level : 1)
-  const after = contribution(opt.level)
   const zero = { climate: 0, learning: 0, management: 0 }
-  const b = prev ? before : zero
+  const prev = p.answers.find((a) => a.caseId === item.id)
+  const b = prev ? contribution(prev.level) : zero
+  const after = contribution(opt.level)
 
   const answer: Answer = {
     caseId: item.id,
@@ -153,16 +154,6 @@ export function nextZone(p: Progress): ZoneId | null {
 
 export function zoneCases(all: CaseItem[], role: Role, zone: ZoneId): CaseItem[] {
   return all.filter((c) => c.zone === zone)
-}
-
-export function pickSim(all: CaseItem[], role: Role, n = 30): CaseItem[] {
-  const pool = all.filter((c) => (c as any).role === role)
-  const a = [...pool]
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1))
-    ;[a[i], a[j]] = [a[j], a[i]]
-  }
-  return a.slice(0, Math.min(n, a.length))
 }
 
 export function gradeSim(items: CaseItem[], answers: number[]): { score: number; byZone: Record<string, { ok: number; total: number }> } {
