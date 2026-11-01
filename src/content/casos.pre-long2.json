@@ -1,0 +1,1302 @@
+{
+  "docente": [
+    {
+      "id": "d-por-1",
+      "zone": "porteria",
+      "moment": "6:30 a.m.",
+      "scene": "Llegas al colegio y en la portería un padre reclama a gritos porque a su hijo de grado sexto no lo dejaron entrar por llegar tarde. Varios estudiantes miran la escena y el vigilante pide ayuda.",
+      "prompt": "¿Cómo actúas en ese momento?",
+      "options": [
+        {
+          "text": "Calmas la situación, le propones hablar aparte, verificas con el vigilante lo ocurrido, permites el ingreso del estudiante y remites el reclamo a coordinación para revisar la causa de la tardanza y acordar compromisos según el manual.",
+          "level": 3
+        },
+        {
+          "text": "Le dices al padre que el manual de convivencia es claro, que la hora de entrada está establecida y que la norma se cumple para todos, y sigues hacia tu salón para no llegar tarde a tu primera clase.",
+          "level": 0
+        },
+        {
+          "text": "Dejas entrar al niño sin preguntar nada para evitar el escándalo frente a los demás estudiantes, y le dices al padre que mañana hable directamente con el rector para resolver su reclamo.",
+          "level": 1
+        },
+        {
+          "text": "Acompañas al padre hasta coordinación y le pides que explique allí su reclamo con calma, pero sin atender al estudiante, que se queda esperando afuera mientras se define quién tiene la razón.",
+          "level": 2
+        }
+      ],
+      "why": "El derecho a la educación del niño prevalece y no puede condicionarse a una sanción improvisada en la puerta. La mejor opción desescala, garantiza el ingreso y canaliza el reclamo por el conducto regular, con diálogo sobre la causa de la tardanza. Las otras evaden el conflicto, aplican la norma de forma rígida o dejan al estudiante en la calle mientras se discute.",
+      "source": "Ley 1098 de 2006 (interés superior del niño); Ley 115 de 1994; Decreto Ley 1278 de 2002, art. 42 (deberes del docente); Manual de convivencia."
+    },
+    {
+      "id": "d-por-2",
+      "zone": "porteria",
+      "moment": "12:00 m.",
+      "scene": "A la salida de media jornada llega una señora diciendo que es tía de una estudiante de grado tercero y que la recoge por orden de la mamá. No está en la lista de personas autorizadas y la niña no la reconoce con claridad.",
+      "prompt": "¿Qué decisión tomas?",
+      "options": [
+        {
+          "text": "Entregas a la niña porque la señora conoce su nombre completo y su curso, y parece sincera; luego, cuando termine la salida, te comunicas con la mamá para avisarle quién la recogió.",
+          "level": 0
+        },
+        {
+          "text": "No entregas a la niña, la mantienes con un adulto del colegio, llamas a la madre o acudiente registrado, solo entregas con su confirmación verificable y dejas constancia, informando a coordinación.",
+          "level": 3
+        },
+        {
+          "text": "Le dices a la señora que vuelva con una carta firmada por la mamá y que mientras tanto no se llevará a la niña, que se queda esperando sola en la portería hasta que regrese.",
+          "level": 1
+        },
+        {
+          "text": "No entregas a la niña y llamas a la madre para confirmar, pero no informas a coordinación ni a nadie más del colegio y tampoco dejas ningún registro escrito de lo que ocurrió.",
+          "level": 2
+        }
+      ],
+      "why": "La protección de la niña exige verificar la identidad y la autorización con el acudiente registrado antes de entregarla. Mantenerla acompañada y dejar constancia protege a todos y activa el protocolo institucional. Entregarla sin verificar es un riesgo grave, y dejarla sola o sin registro debilita la corresponsabilidad.",
+      "source": "Ley 1098 de 2006 (protección integral; corresponsabilidad); Decreto 1075 de 2015; Manual de convivencia y protocolos de entrada y salida."
+    },
+    {
+      "id": "d-por-3",
+      "zone": "porteria",
+      "moment": "6:45 a.m.",
+      "scene": "Un estudiante con discapacidad física, que usa muletas, llega a pie bajo la lluvia y la rampa de acceso está bloqueada por una moto de un docente. El estudiante espera mojado en la puerta.",
+      "prompt": "¿Qué haces?",
+      "options": [
+        {
+          "text": "Le ayudas a ingresar de inmediato, localizas al dueño de la moto para que la retire, y reportas el hecho a coordinación proponiendo señalizar y reservar la rampa como ajuste razonable dentro del PMI.",
+          "level": 3
+        },
+        {
+          "text": "Le dices al estudiante que espere bajo el techo a que se desocupe la rampa, porque la moto no es tuya y no te corresponde pedirle a un colega que la mueva ni reportar el asunto.",
+          "level": 1
+        },
+        {
+          "text": "Lo ayudas a entrar bajo la lluvia y no dices nada a nadie sobre la moto ni sobre la rampa bloqueada, para no tener un conflicto con tu compañero docente ni con coordinación.",
+          "level": 0
+        },
+        {
+          "text": "Lo ayudas a entrar de inmediato y, enseguida, empujas y retiras la moto tú mismo del lugar, sin avisar al dueño ni a coordinación ni dejar ningún reporte de lo ocurrido en la rampa.",
+          "level": 2
+        }
+      ],
+      "why": "La accesibilidad física es una condición de la educación inclusiva y requiere acción inmediata y también corrección del problema de fondo. La mejor respuesta atiende al estudiante, corrige la barrera y la lleva a los canales institucionales de mejoramiento. Las demás dejan la barrera sin gestionar, normalizan el hecho o resuelven por cuenta propia sin dejar aprendizaje institucional.",
+      "source": "Decreto 1421 de 2017 (accesibilidad y ajustes razonables); Ley 115 de 1994; Decreto 1075 de 2015; PMI."
+    },
+    {
+      "id": "d-aul-1",
+      "zone": "aula",
+      "moment": "8:00 a.m.",
+      "scene": "En tu clase de grado octavo un estudiante interrumpe de forma repetida con chistes y se burla de un compañero tímido. El grupo se ríe y la clase pierde ritmo.",
+      "prompt": "¿Cómo manejas la situación?",
+      "options": [
+        {
+          "text": "Lo sacas del salón de inmediato y lo mandas a coordinación con una anotación en el observador del alumno, sin hablar con él ni con el compañero que fue objeto de la burla.",
+          "level": 1
+        },
+        {
+          "text": "Detienes la burla de manera clara, hablas luego en privado con ambos estudiantes, aplicas el manual con acciones pedagógicas y, si hay indicios de acoso reiterado, activas la ruta de la Ley 1620.",
+          "level": 3
+        },
+        {
+          "text": "Haces como que no escuchas los chistes ni las burlas y continúas con el tema de la clase para no darle protagonismo al estudiante ni interrumpir el ritmo, esperando que se calme solo.",
+          "level": 0
+        },
+        {
+          "text": "Lo reprendes con firmeza frente a todo el grupo y le exiges pedirle disculpas públicas a su compañero tímido, sin hablar después con ninguno de los dos en privado ni revisar el manual.",
+          "level": 2
+        }
+      ],
+      "why": "Hay que frenar la burla en el momento y tratar el asunto en privado, con enfoque formativo y sin exponer a nadie. La ruta de convivencia se activa si hay reiteración. Ignorarlo permite el matoneo, expulsar sin diálogo evade la función formativa y la humillación pública vulnera la dignidad del estudiante.",
+      "source": "Ley 1620 de 2013; Decreto 1965 de 2013; Ley 1098 de 2006; Manual de convivencia."
+    },
+    {
+      "id": "d-aul-2",
+      "zone": "aula",
+      "moment": "10:00 a.m.",
+      "scene": "Preparas una clase de ciencias naturales para grado quinto. Tu grupo incluye niños con ritmos de lectura muy distintos y no hay textos suficientes para todos. Debes enseñar el ciclo del agua según los DBA.",
+      "prompt": "¿Cómo diseñas la actividad?",
+      "options": [
+        {
+          "text": "Planeas desde el DBA con una exploración inicial, materiales diversos (texto, imagen, experimento sencillo), roles por equipos, y evidencias de aprendizaje con criterios claros que permiten ajustar apoyos.",
+          "level": 3
+        },
+        {
+          "text": "Dictas el tema completo y los estudiantes lo copian en el cuaderno, porque así se garantiza que todos tengan exactamente lo mismo, sin importar el ritmo de lectura de cada niño.",
+          "level": 0
+        },
+        {
+          "text": "Fotocopias un texto para cada niño y asignas un cuestionario individual al final de la clase, que se califica con una nota única sin tener en cuenta los distintos ritmos de lectura.",
+          "level": 1
+        },
+        {
+          "text": "Organizas una experiencia práctica con equipos y materiales variados que los niños disfrutan, pero sin definir criterios de evaluación ni evidencias de aprendizaje que permitan ajustar los apoyos.",
+          "level": 2
+        }
+      ],
+      "why": "El diseño universal de aprendizaje y la evaluación formativa requieren múltiples formas de acceso y evidencias con criterios conocidos. Esto responde a la diversidad sin segregar y se alinea con los DBA. Dictar es transmisivo; el texto único no atiende ritmos diversos; la actividad práctica sin criterios no permite retroalimentar.",
+      "source": "Decreto 1421 de 2017 (DUA); Lineamientos MEN: DBA y evaluación formativa; Decreto 1075 de 2015; Ley 115 de 1994."
+    },
+    {
+      "id": "d-aul-3",
+      "zone": "aula",
+      "moment": "2:00 p.m.",
+      "scene": "Una estudiante de grado décimo llora en silencio en la última fila durante tu clase. Al terminar, otra compañera te cuenta que se enteró de que la niña recibe mensajes amenazantes por redes sociales de compañeros del curso.",
+      "prompt": "¿Cuál es tu primera actuación?",
+      "options": [
+        {
+          "text": "Le pides a la compañera que no difunda el rumor ni lo comente con nadie más, y esperas a ver si la estudiante te cuenta algo por iniciativa propia, sin reportar nada al comité ni a orientación.",
+          "level": 0
+        },
+        {
+          "text": "Hablas con la estudiante de forma privada y respetuosa, garantizas su protección, registras lo que conozcas, reportas de inmediato al comité escolar de convivencia por la ruta de la Ley 1620 y no confrontas por tu cuenta a los presuntos agresores.",
+          "level": 3
+        },
+        {
+          "text": "Llamas de inmediato a los presuntos agresores al salón y les exiges borrar los mensajes, entregar sus celulares y pedirle perdón a la estudiante, sin informar al comité ni activar ninguna ruta.",
+          "level": 1
+        },
+        {
+          "text": "Hablas con la estudiante de forma privada y le recomiendas bloquear a los autores de los mensajes y no responderles, pero no reportas lo ocurrido al comité de convivencia ni a orientación.",
+          "level": 2
+        }
+      ],
+      "why": "El ciberacoso es una situación que exige activar la ruta de atención integral y no resolverse informalmente. Escuchar con respeto, proteger y reportar dentro del tiempo del protocolo es el deber del docente. Esperar deja a la víctima sola, intervenir directamente puede dañar el debido proceso y limitarse a un consejo omite la responsabilidad institucional.",
+      "source": "Ley 1620 de 2013; Decreto 1965 de 2013 (ruta de atención integral); Ley 1098 de 2006; Decreto Ley 1278 de 2002."
+    },
+    {
+      "id": "d-apo-1",
+      "zone": "apoyo",
+      "moment": "8:00 a.m.",
+      "scene": "Recibes en grado cuarto a un niño con diagnóstico de trastorno del espectro autista. La familia entrega el informe médico, pero el colegio aún no ha elaborado el PIAR y el niño se desborda con los cambios de rutina.",
+      "prompt": "¿Qué haces?",
+      "options": [
+        {
+          "text": "Con la familia, el orientador y el docente de apoyo construyes el PIAR a partir de la valoración pedagógica, estableces anticipación de rutinas y ajustes razonables, y lo incorporas en tu planeación con seguimiento periódico.",
+          "level": 3
+        },
+        {
+          "text": "Esperas a que el área de orientación te indique qué hacer con el niño y mientras tanto trabajas con él como con los demás estudiantes, sin ningún ajuste en tus actividades ni en tu planeación.",
+          "level": 1
+        },
+        {
+          "text": "Le pides a la familia que busque un colegio especializado en autismo, porque no tienes formación en el tema y consideras que el niño estaría mejor atendido en otra institución distinta.",
+          "level": 0
+        },
+        {
+          "text": "Aplicas por tu cuenta las estrategias que encontraste en internet sobre autismo, sin consultar al orientador ni al docente de apoyo, y luego le informas a la familia lo que has venido haciendo.",
+          "level": 2
+        }
+      ],
+      "why": "El PIAR se construye de manera articulada entre docentes, familia y apoyos, partiendo de lo que el estudiante puede hacer y de las barreras del contexto. Esto garantiza ajustes razonables y seguimiento. Las otras opciones esperan pasivamente, improvisan sin ruta o excluyen al niño, lo que contradice el derecho a la educación inclusiva.",
+      "source": "Decreto 1421 de 2017 (PIAR, ajustes razonables); Ley 115 de 1994; Decreto 1075 de 2015."
+    },
+    {
+      "id": "d-apo-2",
+      "zone": "apoyo",
+      "moment": "10:00 a.m.",
+      "scene": "La docente de apoyo pedagógico te sugiere flexibilizar la evaluación de un estudiante con dificultades de lectoescritura. Otro colega dice que eso es «regalar notas» y que hay que exigir lo mismo a todos.",
+      "prompt": "¿Cómo respondes?",
+      "options": [
+        {
+          "text": "Evalúas al estudiante exactamente igual que al resto del curso para evitar reclamos de otros padres de familia, y dices que flexibilizar sería darle una ventaja injusta frente a los compañeros.",
+          "level": 0
+        },
+        {
+          "text": "Mantienes el mismo logro del DBA, ajustas formatos, tiempos y formas de demostrar el aprendizaje según el PIAR, y explicas a la comunidad que la equidad no significa dar lo mismo a todos.",
+          "level": 3
+        },
+        {
+          "text": "Bajas el nivel de exigencia del contenido que se le evalúa a ese estudiante para que apruebe sin dificultad, aunque con ello ya no alcance el mismo logro que se espera de los demás.",
+          "level": 1
+        },
+        {
+          "text": "Das más tiempo al estudiante en los exámenes, pero sin modificar los formatos ni registrar estos ajustes en el PIAR, de modo que no quede documentado ni se pueda explicar a la comunidad.",
+          "level": 2
+        }
+      ],
+      "why": "Los ajustes razonables no reducen el aprendizaje esperado; cambian el camino para demostrarlo y se documentan en el PIAR. Esto respeta el sistema institucional de evaluación y es inclusivo. Evaluar igual ignora las barreras, bajar el contenido empobrece las expectativas y no documentar impide la continuidad.",
+      "source": "Decreto 1421 de 2017; Decreto 1075 de 2015 (evaluación de los aprendizajes); Lineamientos MEN: evaluación formativa."
+    },
+    {
+      "id": "d-apo-3",
+      "zone": "apoyo",
+      "moment": "2:00 p.m.",
+      "scene": "Un estudiante de grado séptimo, de familia desplazada recientemente, llega con rezago académico, poco habla y falta con frecuencia. Su acudiente trabaja todo el día y no asiste a las citaciones.",
+      "prompt": "¿Cuál es la mejor estrategia?",
+      "options": [
+        {
+          "text": "Reportas las inasistencias frecuentes al coordinador para que se aplique el manual de convivencia y esperas la sanción correspondiente, sin indagar por las causas de la ausencia ni por su situación.",
+          "level": 1
+        },
+        {
+          "text": "Coordinas con orientación y coordinación una valoración integral, ofreces canales flexibles de contacto con el acudiente, diseñas un plan de nivelación y gestionas apoyo con entidades de protección y restablecimiento de derechos si es necesario.",
+          "level": 3
+        },
+        {
+          "text": "Concluyes que el estudiante no tiene interés en estudiar por su situación familiar y centras tu atención en quienes sí participan en clase, dejando de insistirle con las actividades y con las tareas.",
+          "level": 0
+        },
+        {
+          "text": "Le ayudas con tareas extra y refuerzo durante el descanso para que nivele sus temas atrasados, pero sin informar a orientación, coordinación ni a ninguna otra instancia sobre su situación de desplazamiento.",
+          "level": 2
+        }
+      ],
+      "why": "Una situación de vulnerabilidad requiere enfoque de derechos, trabajo articulado y flexibilidad con la familia. La nivelación y la gestión intersectorial atienden causas, no solo síntomas. Sancionar o desistir revictimiza, y el apoyo aislado, aunque bien intencionado, no garantiza restablecimiento.",
+      "source": "Ley 1098 de 2006 (corresponsabilidad y restablecimiento de derechos); Ley 115 de 1994; Decreto 1075 de 2015; PEI."
+    },
+    {
+      "id": "d-psi-1",
+      "zone": "psico",
+      "moment": "10:00 a.m.",
+      "scene": "Una estudiante de grado noveno te entrega un cuaderno con escritos que expresan deseos de hacerse daño. Te pide que no le cuentes a nadie y dice que confía en ti.",
+      "prompt": "¿Qué decides?",
+      "options": [
+        {
+          "text": "La acoges sin juzgar, le explicas con claridad que debes buscar ayuda para protegerla, no la dejas sola, informas de inmediato a orientación y a coordinación, y se activa el protocolo de atención con la familia y salud.",
+          "level": 3
+        },
+        {
+          "text": "Guardas el secreto que te pidió para no perder su confianza, no informas a orientación ni a la familia, y le propones que hable contigo cada semana para ir viendo cómo sigue emocionalmente.",
+          "level": 0
+        },
+        {
+          "text": "La tranquilizas diciéndole que lo que siente es una etapa normal de la adolescencia que pasará pronto, y le pides que hable con su mamá, sin informar a orientación ni a coordinación del colegio.",
+          "level": 1
+        },
+        {
+          "text": "Informas a orientación después de terminar la jornada, pero no a la familia ni a coordinación hasta que se tenga certeza de que el riesgo es real, y la dejas ir sola a su casa ese día.",
+          "level": 2
+        }
+      ],
+      "why": "Ante riesgo para la vida, el deber de protección prevalece sobre la confidencialidad. Se actúa de inmediato, con empatía, sin dejar sola a la estudiante y activando la ruta que involucra a la familia y al sector salud. Guardar el secreto o minimizar el riesgo puede costar una vida, y la demora o el desconocimiento de la familia debilitan la corresponsabilidad.",
+      "source": "Ley 1098 de 2006 (protección integral); Ley 1620 de 2013 y Decreto 1965 de 2013 (ruta de atención); Decreto Ley 1278 de 2002."
+    },
+    {
+      "id": "d-psi-2",
+      "zone": "psico",
+      "moment": "3:30 p.m.",
+      "scene": "Un niño de grado segundo llega con moretones en los brazos y dice que «se cayó». Otro compañero comenta que el papá le pega con una correa cuando se porta mal.",
+      "prompt": "¿Qué actuación corresponde?",
+      "options": [
+        {
+          "text": "Citas al padre al colegio para pedirle explicaciones sobre los moretones y le adviertes con firmeza que no puede golpear al niño, sin reportar a orientación, rectoría ni a ninguna autoridad.",
+          "level": 1
+        },
+        {
+          "text": "Registras lo observado sin interrogar al niño de manera invasiva, reportas el mismo día a orientación y rectoría para activar la ruta de atención y presentas la denuncia ante la autoridad competente (ICBF o Comisaría de Familia).",
+          "level": 3
+        },
+        {
+          "text": "No dices nada a nadie porque no tienes pruebas de que el niño sea maltratado en casa y podrías afectar a la familia con una acusación que luego no se pueda comprobar ante las autoridades.",
+          "level": 0
+        },
+        {
+          "text": "Hablas con el niño en privado, le ofreces apoyo y confianza, y esperas a ver si aparecen más señales en los próximos días antes de reportar a orientación, a rectoría o a las autoridades.",
+          "level": 2
+        }
+      ],
+      "why": "Ante sospecha de maltrato infantil, los docentes tienen la obligación de reportar a las autoridades competentes sin esperar pruebas ni confrontar a la familia. Registrar objetivamente y no revictimizar al niño protege su integridad. Citar al padre puede aumentar el riesgo, y esperar o callar incumple el deber legal.",
+      "source": "Ley 1098 de 2006 (deber de denuncia y protección); Ley 1620 de 2013; Decreto 1965 de 2013."
+    },
+    {
+      "id": "d-psi-3",
+      "zone": "psico",
+      "moment": "8:00 a.m.",
+      "scene": "Una estudiante trans de grado undécimo pide que la llamen por su nombre identitario. Algunos docentes se niegan y otros compañeros la molestan por su apariencia.",
+      "prompt": "¿Cómo actúas desde tu rol?",
+      "options": [
+        {
+          "text": "Sigues usando el nombre del registro civil para evitar problemas, ya que así aparece en las listas y en el sistema, y no intervienes ni cuando algunos compañeros la molestan por su identidad.",
+          "level": 0
+        },
+        {
+          "text": "La tratas con respeto y por el nombre que solicita, promueves el respeto en tu aula, remites los hechos de discriminación al comité de convivencia y propones revisar el manual y las prácticas institucionales con enfoque de derechos.",
+          "level": 3
+        },
+        {
+          "text": "Le pides discreción a la estudiante y que no insista con el tema para que no genere conflictos con otros docentes que se niegan, sin intervenir frente a las burlas de los compañeros.",
+          "level": 1
+        },
+        {
+          "text": "La llamas por su nombre identitario solo en tu clase, con respeto, pero no intervienes en lo que ocurre afuera ni reportas al comité de convivencia las burlas y la negativa de otros docentes.",
+          "level": 2
+        }
+      ],
+      "why": "El respeto a la identidad y al libre desarrollo de la personalidad es un derecho, y la discriminación es una situación tipo que debe ser atendida por la ruta de convivencia. La mejor opción combina trato digno, acción en el aula y cambio institucional. Las demás mantienen la exclusión o la trasladan a la víctima.",
+      "source": "Ley 1620 de 2013 (convivencia y derechos humanos); Ley 1098 de 2006; Ley 115 de 1994; Manual de convivencia."
+    },
+    {
+      "id": "d-sal-1",
+      "zone": "sala",
+      "moment": "12:00 m.",
+      "scene": "En la sala de profesores, un colega comenta frente a otros que un estudiante «no tiene remedio» por su familia y que mejor lo dejen perder. Varios asienten.",
+      "prompt": "¿Cómo respondes?",
+      "options": [
+        {
+          "text": "Planteas con respeto que las expectativas docentes influyen en el aprendizaje, propones llevar el caso al comité de evaluación y promoción o a la comisión para diseñar acciones de apoyo y seguimiento.",
+          "level": 3
+        },
+        {
+          "text": "Te quedas callado y sigues con tu café para no generar un conflicto con tus compañeros, aunque creas que el comentario sobre el estudiante y su familia es injusto y puede condicionar su proceso.",
+          "level": 0
+        },
+        {
+          "text": "Dices que cada docente tiene su propio criterio para evaluar y tratar a sus estudiantes, y que no te corresponde opinar sobre lo que piensa un colega ni sobre la situación de ese estudiante.",
+          "level": 1
+        },
+        {
+          "text": "Le dices en privado a tu colega que no debería hablar así de un estudiante ni de su familia, pero no propones llevar el caso al comité de evaluación ni ninguna acción de apoyo concreta.",
+          "level": 2
+        }
+      ],
+      "why": "El estigma docente reduce las oportunidades del estudiante. Un profesional cuestiona con respeto y lleva la discusión a espacios institucionales para generar acciones de apoyo. Callar o escudarse en el criterio individual normaliza la exclusión, y la conversación privada, aunque válida, no cambia las prácticas.",
+      "source": "Decreto Ley 1278 de 2002 (arts. 4 y 42: función docente y deberes); Decreto 1075 de 2015; Lineamientos MEN: evaluación formativa."
+    },
+    {
+      "id": "d-sal-2",
+      "zone": "sala",
+      "moment": "3:30 p.m.",
+      "scene": "En la reunión de área se discute el plan de mejoramiento institucional. Algunos docentes proponen cumplir «en papel» porque nadie revisa y el rector pide solo los formatos.",
+      "prompt": "¿Qué propones?",
+      "options": [
+        {
+          "text": "Aceptas la propuesta de cumplir solo en papel para ahorrar tiempo, dado que la carga académica es alta y nadie revisa, y firmas el plan sin metas reales ni responsables ni evidencias.",
+          "level": 0
+        },
+        {
+          "text": "Propones usar los resultados de evaluación del área para fijar metas realistas, responsables y evidencias, articuladas al PEI y al PMI, con seguimiento trimestral en las reuniones de área.",
+          "level": 3
+        },
+        {
+          "text": "Propones dividir los formatos del plan entre los docentes para terminar rápido y entregarlos a tiempo, sin revisar resultados de evaluación ni definir metas ni articularlos con el PEI.",
+          "level": 1
+        },
+        {
+          "text": "Propones revisar los resultados y fijar metas realistas para el área, pero sin asignar responsables ni evidencias, y sin definir ningún seguimiento posterior en las reuniones de área.",
+          "level": 2
+        }
+      ],
+      "why": "El PMI solo mejora la calidad cuando se basa en evidencias, tiene responsables y se sigue en el tiempo. La opción avanzada le da sentido pedagógico al plan. Cumplir en papel o fragmentar formatos no transforma las prácticas, y las metas sin seguimiento quedan en intención.",
+      "source": "Ley 115 de 1994 (PEI); Decreto 1075 de 2015 (evaluación institucional); Decreto Ley 1278 de 2002, art. 42."
+    },
+    {
+      "id": "d-sal-3",
+      "zone": "sala",
+      "moment": "6:30 a.m.",
+      "scene": "Una compañera nueva de provisionalidad recién nombrada no conoce el SIEE ni el manual de convivencia y cometió errores en su primera semana. Te cuenta que se siente sola y con miedo de ser evaluada negativamente.",
+      "prompt": "¿Cómo actúas?",
+      "options": [
+        {
+          "text": "Le señalas sus errores de la primera semana a coordinación para que le hagan una observación formal, sin hablar antes con ella ni explicarle cómo funcionan el SIEE y el manual.",
+          "level": 0
+        },
+        {
+          "text": "Te ofreces como acompañante, compartes el SIEE, el manual y tus planeaciones, y propones a coordinación una inducción formal y espacios de acompañamiento entre pares.",
+          "level": 3
+        },
+        {
+          "text": "Le dices que lea los documentos institucionales por su cuenta, porque así se aprende mejor, y no le compartes tus planeaciones ni le ofreces acompañamiento ni se lo propones a coordinación.",
+          "level": 1
+        },
+        {
+          "text": "Le explicas lo esencial del SIEE y del manual y la acompañas durante esta semana, pero sin involucrar a coordinación ni proponer una inducción formal para los docentes nuevos.",
+          "level": 2
+        }
+      ],
+      "why": "La comunidad profesional de aprendizaje fortalece el desempeño y el clima laboral. El acompañamiento entre pares, junto con la inducción institucional, favorece la calidad. Denunciar errores sin apoyo es punitivo, dejar sola a la colega es indiferencia y el apoyo informal no se sostiene.",
+      "source": "Decreto Ley 1278 de 2002 (evaluación de desempeño y desarrollo profesional); Decreto 1075 de 2015; PEI."
+    },
+    {
+      "id": "d-aca-1",
+      "zone": "academica",
+      "moment": "2:00 p.m.",
+      "scene": "Al cierre del periodo, un padre reclama porque su hija reprobó matemáticas y asegura que tú no explicaste los temas. Tienes los registros de las evaluaciones, pero no los retroalimentaste por escrito.",
+      "prompt": "¿Cómo respondes al reclamo?",
+      "options": [
+        {
+          "text": "Lo atiendes con respeto, presentas las evidencias y criterios del SIEE, escuchas el reclamo, acuerdas un plan de apoyo con tiempos, y le informas las instancias de reclamación y el debido proceso para revisar la valoración.",
+          "level": 3
+        },
+        {
+          "text": "Le dices al padre que la nota es definitiva, que la estudiante no hizo lo necesario para aprobar y que no hay nada que discutir, sin mostrar las evidencias ni informar las instancias de reclamación.",
+          "level": 0
+        },
+        {
+          "text": "Revisas la nota y la subes un poco, aunque las evidencias no lo justifiquen, para evitar que el padre eleve un reclamo formal ante coordinación y para no tener más problemas con la familia.",
+          "level": 1
+        },
+        {
+          "text": "Muestras los registros de evaluación al padre y le sugieres que busque refuerzo externo para su hija, pero no acuerdas un plan de apoyo ni le informas las instancias para reclamar la valoración.",
+          "level": 2
+        }
+      ],
+      "why": "La evaluación debe ser transparente, basada en criterios del SIEE y con derecho a reclamación. Un plan de apoyo concreto y la información de las instancias dan legitimidad al proceso. Cerrar la discusión es autoritario, modificar la nota por presión no es ético y trasladar la responsabilidad al refuerzo externo evade la función docente.",
+      "source": "Decreto 1075 de 2015 (SIEE y derechos de los estudiantes); Decreto Ley 1278 de 2002, art. 42; Ley 1755 de 2015 (derecho de petición)."
+    },
+    {
+      "id": "d-aca-2",
+      "zone": "academica",
+      "moment": "10:00 a.m.",
+      "scene": "Debes entregar planillas de notas del periodo. Tu sistema de calificación se basa casi solo en exámenes escritos, aunque el SIEE habla de evaluación integral con distintos tipos de evidencia.",
+      "prompt": "¿Cómo ajustas tu práctica evaluativa?",
+      "options": [
+        {
+          "text": "Mantienes los exámenes escritos como casi única fuente de la nota porque son más fáciles de calificar y de justificar ante los padres, aunque el SIEE hable de una evaluación integral.",
+          "level": 0
+        },
+        {
+          "text": "Diversificas las evidencias (proyectos, portafolios, autoevaluación, desempeños), das criterios previos y retroalimentación, y usas los resultados para ajustar tu planeación según los DBA.",
+          "level": 3
+        },
+        {
+          "text": "Añades un trabajo en casa y una nota de participación para completar la planilla, sin criterios claros para el estudiante y sin retroalimentación que permita ajustar tu planeación.",
+          "level": 1
+        },
+        {
+          "text": "Agregas un proyecto final al cierre del periodo y mantienes todo lo demás igual, sin dar criterios previos al grupo ni usar los resultados para ajustar tu planeación según los DBA.",
+          "level": 2
+        }
+      ],
+      "why": "La evaluación formativa y coherente con el SIEE usa múltiples evidencias, comunica criterios y retroalimenta para mejorar. Agregar elementos sin criterios genera arbitrariedad, un solo proyecto no cambia el enfoque y el examen único no recoge los avances reales.",
+      "source": "Decreto 1075 de 2015 (SIEE); Lineamientos MEN: DBA y evaluación formativa; Ley 115 de 1994."
+    },
+    {
+      "id": "d-aca-3",
+      "zone": "academica",
+      "moment": "3:30 p.m.",
+      "scene": "Un estudiante de grado noveno pierde el año por inasistencias y bajo rendimiento. Su madre pide por escrito, con base en el derecho de petición, copia de sus notas y el soporte de la decisión de no promoción.",
+      "prompt": "¿Qué corresponde hacer?",
+      "options": [
+        {
+          "text": "Le dices a la madre que esa información es interna y reservada y que debe esperar a que la comisión de evaluación se reúna, sin remitir su petición ni responder dentro de los tiempos legales.",
+          "level": 0
+        },
+        {
+          "text": "Remites la petición a la secretaría o rectoría en los tiempos legales, aportas el consolidado y evidencias del seguimiento y los apoyos ofrecidos, y orientas a la madre sobre las instancias de reclamación.",
+          "level": 3
+        },
+        {
+          "text": "Respondes verbalmente a la madre y le explicas la decisión de pérdida del año, sin entregar ningún documento ni consolidado, y sin remitir su petición escrita a secretaría o a rectoría.",
+          "level": 1
+        },
+        {
+          "text": "Entregas las notas de inmediato a la madre, pero no los soportes del proceso de seguimiento ni de los apoyos ofrecidos, y no la orientas sobre las instancias donde puede reclamar la decisión.",
+          "level": 2
+        }
+      ],
+      "why": "La información sobre la evaluación del estudiante es un derecho de su familia y las peticiones deben tramitarse dentro de los términos legales. Documentar el seguimiento y los apoyos da sustento a la decisión. Negar o responder solo verbalmente vulnera el debido proceso, y la entrega parcial deja la decisión sin motivación.",
+      "source": "Ley 1755 de 2015 (derecho de petición); Decreto 1075 de 2015 (SIEE, promoción); Ley 1098 de 2006."
+    },
+    {
+      "id": "d-pat-1",
+      "zone": "patio",
+      "moment": "10:00 a.m.",
+      "scene": "Durante el descanso, te encargan la vigilancia del patio. Ves a tres estudiantes de grado octavo empujando y quitando el balón a un niño de sexto que parece asustado.",
+      "prompt": "¿Cuál es tu actuación?",
+      "options": [
+        {
+          "text": "Intervienes de inmediato, separas y proteges al niño, verificas que no esté lesionado, recoges versiones por separado, y reportas al comité de convivencia para evaluar si se trata de una situación que exige ruta.",
+          "level": 3
+        },
+        {
+          "text": "Les gritas desde lejos que se detengan y sigues con tu ronda de vigilancia, dado que no hubo golpes, sin verificar cómo quedó el niño de sexto ni recoger versiones ni reportar a nadie.",
+          "level": 1
+        },
+        {
+          "text": "Dejas que resuelvan el asunto entre ellos, porque son cosas de niños y a esa edad se arreglan solos, y sigues con tu ronda sin hablar con nadie ni reportar lo que viste en el patio.",
+          "level": 0
+        },
+        {
+          "text": "Los llevas a coordinación en el acto, a los tres y al niño de sexto, y dejas la vigilancia del patio sin cobertura, sin verificar si alguno resultó lesionado ni recoger versiones por separado.",
+          "level": 2
+        }
+      ],
+      "why": "Las relaciones de poder entre estudiantes de distintas edades pueden constituir acoso. Detener la agresión, proteger, escuchar versiones y reportar permite activar la ruta según el tipo de situación. Minimizar el hecho o abandonar la zona de vigilancia genera riesgos para otros estudiantes.",
+      "source": "Ley 1620 de 2013; Decreto 1965 de 2013 (clasificación de situaciones y protocolos); Ley 1098 de 2006."
+    },
+    {
+      "id": "d-pat-2",
+      "zone": "patio",
+      "moment": "12:00 m.",
+      "scene": "En el descanso, un estudiante se cae en la cancha, se queja de dolor intenso en el brazo y no puede moverlo. Los compañeros te piden que lo levantes ya.",
+      "prompt": "¿Qué haces?",
+      "options": [
+        {
+          "text": "Lo levantas del piso, le pones hielo en el brazo y lo mandas de vuelta a clase para ver si se le pasa el dolor, sin avisar a coordinación ni a la familia ni dejar constancia.",
+          "level": 0
+        },
+        {
+          "text": "Evitas moverlo, lo acompañas y tranquilizas, activas el protocolo de primeros auxilios, avisas a coordinación y a la familia para su traslado a salud, y dejas constancia del incidente.",
+          "level": 3
+        },
+        {
+          "text": "Llamas a la familia y esperas con el estudiante a que lo recojan, pero sin avisar a coordinación ni activar el protocolo de primeros auxilios, y sin dejar constancia escrita del incidente.",
+          "level": 1
+        },
+        {
+          "text": "Lo levantas y lo llevas tú mismo a la enfermería para que lo revisen, y solo informas a la familia al final de la jornada, sin avisar a coordinación ni dejar constancia del incidente.",
+          "level": 2
+        }
+      ],
+      "why": "Ante un posible trauma se debe inmovilizar, acompañar y activar el protocolo institucional, con aviso oportuno a la familia y a salud. Minimizar la lesión pone en riesgo al estudiante, y las actuaciones aisladas o tardías incumplen el deber de cuidado.",
+      "source": "Ley 1098 de 2006 (protección integral); Decreto Ley 1278 de 2002, art. 42; Manual de convivencia y protocolo de emergencias."
+    },
+    {
+      "id": "d-pat-3",
+      "zone": "patio",
+      "moment": "2:00 p.m.",
+      "scene": "En clase de educación física, las niñas de grado sexto quedan siempre en la banca porque los varones dominan la cancha. Una de ellas te dice que le gustaría jugar fútbol.",
+      "prompt": "¿Cómo reorganizas la clase?",
+      "options": [
+        {
+          "text": "Mantienes el esquema actual de juego porque a las niñas «no les gusta» el fútbol, según dices, y dejas que los varones sigan usando la cancha mientras ellas continúan en la banca.",
+          "level": 0
+        },
+        {
+          "text": "Rediseñas la actividad con equipos mixtos y rotación, reglas de participación equitativa, múltiples roles y espacios, y conversas con el curso sobre equidad y respeto.",
+          "level": 3
+        },
+        {
+          "text": "Divides el curso por género y asignas una cancha a los varones y otra a las niñas, sin cambiar las reglas de juego ni hablar con el grupo sobre equidad ni sobre el respeto.",
+          "level": 1
+        },
+        {
+          "text": "Das un turno a las niñas al final de la clase, cuando queda tiempo, sin cambiar la organización ni las reglas de la actividad y sin conversar con el curso sobre la equidad.",
+          "level": 2
+        }
+      ],
+      "why": "La clase debe garantizar participación de todos sin estereotipos. La rotación y las reglas claras construyen equidad y convivencia. Dividir por género mantiene el estereotipo, los turnos residuales las relegan y asumir sus gustos las excluye.",
+      "source": "Ley 115 de 1994 (educación física y fines de la educación); Ley 1620 de 2013 (educación para la sexualidad y ciudadanía); Lineamientos MEN."
+    },
+    {
+      "id": "d-bib-1",
+      "zone": "biblioteca",
+      "moment": "8:00 a.m.",
+      "scene": "Quieres fortalecer la lectura en grado tercero, pero la biblioteca está desordenada y poco usada. Los niños no encuentran libros de su interés.",
+      "prompt": "¿Cómo la integras en tu planeación?",
+      "options": [
+        {
+          "text": "Planeas con el equipo de lengua y el bibliotecario un proyecto lector alineado al PEI, con selección de textos diversos, horarios de uso, estrategias de mediación y seguimiento a los avances.",
+          "level": 3
+        },
+        {
+          "text": "Dejas la lectura como tarea para la casa porque en el colegio no hay condiciones, ya que la biblioteca está desordenada, y no planeas ninguna actividad lectora con los niños en el aula.",
+          "level": 0
+        },
+        {
+          "text": "Llevas a los niños a la biblioteca una vez al mes a leer libremente lo que encuentren, sin hablar con el bibliotecario ni con el equipo de lengua y sin estrategias de mediación ni seguimiento.",
+          "level": 1
+        },
+        {
+          "text": "Creas un rincón de lectura en tu salón con libros que tú mismo consigues y gestionas por tu cuenta, sin articularlo con el PEI, con el equipo de lengua ni con la biblioteca del colegio.",
+          "level": 2
+        }
+      ],
+      "why": "Un proyecto lector institucional articula recursos, tiempo y mediación pedagógica, con seguimiento. El rincón de aula y las visitas aisladas ayudan, pero no se sostienen ni se articulan al PEI. Trasladar todo a la casa evade la función de enseñar a leer.",
+      "source": "Ley 115 de 1994; Lineamientos MEN (Plan Nacional de Lectura y Escritura, DBA de lenguaje); PEI."
+    },
+    {
+      "id": "d-bib-2",
+      "zone": "biblioteca",
+      "moment": "3:30 p.m.",
+      "scene": "Un estudiante de grado séptimo copia y pega de internet un trabajo completo y lo entrega como propio. Es la segunda vez en el periodo.",
+      "prompt": "¿Cómo lo abordas?",
+      "options": [
+        {
+          "text": "Lo calificas con cero y lo registras en el observador del estudiante, sin más explicación, sin dialogar con él sobre lo ocurrido ni enseñarle a citar y parafrasear las fuentes.",
+          "level": 1
+        },
+        {
+          "text": "Dialogas con el estudiante, aplicas el SIEE y el manual con medidas pedagógicas, le enseñas a citar y parafrasear, le das una nueva oportunidad con criterios claros y documentas el proceso.",
+          "level": 3
+        },
+        {
+          "text": "Dejas pasar el trabajo copiado sin decir nada, porque casi todos los estudiantes lo hacen, y lo calificas como cualquier otro, sin hablar con él ni con la familia ni registrar lo ocurrido.",
+          "level": 0
+        },
+        {
+          "text": "Le pides rehacer el trabajo por su cuenta y lo calificas cuando lo entregue, sin hablar del tema con él, sin enseñarle a citar ni documentar el proceso ni definir criterios claros.",
+          "level": 2
+        }
+      ],
+      "why": "La integridad académica se enseña. Dialogar, aplicar el debido proceso y dar herramientas para citar convierte la falta en aprendizaje. El cero sin explicación sanciona sin formar, ignorar normaliza la copia y repetir sin diálogo no resuelve la causa.",
+      "source": "Decreto 1075 de 2015 (SIEE); Ley 1620 de 2013 (enfoque formativo); Manual de convivencia."
+    },
+    {
+      "id": "d-bib-3",
+      "zone": "biblioteca",
+      "moment": "6:30 a.m.",
+      "scene": "El colegio recibió equipos de cómputo y libros nuevos, pero los docentes no saben cómo usarlos pedagógicamente. La biblioteca sigue cerrada por falta de un responsable.",
+      "prompt": "¿Qué propones en el consejo académico?",
+      "options": [
+        {
+          "text": "Propones guardar los equipos y los libros nuevos bajo llave hasta que haya un funcionario encargado, y dejar los asuntos de formación docente y uso pedagógico para el próximo año.",
+          "level": 0
+        },
+        {
+          "text": "Propones un plan de uso con horarios, formación entre pares, responsables rotativos y metas de uso pedagógico vinculadas al PMI, con registro de seguimiento.",
+          "level": 3
+        },
+        {
+          "text": "Propones dejar libre acceso a los estudiantes a los equipos y libros, sin control ni horarios ni responsables, para que los aprovechen, sin formación a los docentes ni seguimiento.",
+          "level": 1
+        },
+        {
+          "text": "Propones abrir la biblioteca solo en las horas en que haya un docente libre, sin horarios fijos ni formación entre pares, y sin metas de uso pedagógico ni registro de seguimiento.",
+          "level": 2
+        }
+      ],
+      "why": "Los recursos solo mejoran los aprendizajes si hay uso planificado, formación y seguimiento. El plan articulado al PMI da sostenibilidad. Guardar los equipos desperdicia la inversión, el acceso sin control expone los recursos y la apertura improvisada es irregular.",
+      "source": "Ley 115 de 1994; Decreto 1075 de 2015 (consejo académico y gobierno escolar); PEI y PMI."
+    }
+  ],
+  "coordinador": [
+    {
+      "id": "c-por-1",
+      "zone": "porteria",
+      "moment": "6:30 a.m.",
+      "scene": "Un grupo de padres de familia bloquea la entrada exigiendo la salida de un docente al que acusan de maltrato verbal. Hay estudiantes afuera y el rector aún no ha llegado.",
+      "prompt": "¿Cómo manejas la situación como coordinador?",
+      "options": [
+        {
+          "text": "Le pides al docente acusado que no se presente hoy al colegio para calmar los ánimos de los padres, sin recibir la queja ni informar al rector ni garantizar el debido proceso para él.",
+          "level": 1
+        },
+        {
+          "text": "Dialogas con los voceros en un espacio seguro, garantizas el ingreso de los estudiantes, recibes la queja por escrito, informas al rector y explicas la ruta de atención con debido proceso para el docente y para las familias.",
+          "level": 3
+        },
+        {
+          "text": "Llamas de inmediato a la policía para que despeje la entrada por la fuerza, sin dialogar con los voceros de los padres ni recibir su queja, mientras los estudiantes siguen esperando afuera.",
+          "level": 0
+        },
+        {
+          "text": "Les dices a los padres que el rector los atenderá más tarde y que despejen la puerta para que entren los estudiantes, sin dialogar con los voceros ni recibir su queja por escrito.",
+          "level": 2
+        }
+      ],
+      "why": "Hay que proteger el derecho a la educación de los estudiantes, atender a las familias y garantizar el debido proceso del docente. Recibir la queja formalmente abre la actuación y evita decisiones por presión. La salida inmediata del docente prejuzga, la policía escala el conflicto y la respuesta sin trámite deja el reclamo sin canal.",
+      "source": "Decreto Ley 1278 de 2002 (régimen disciplinario y debido proceso); Ley 115 de 1994; Ley 1098 de 2006; Decreto 1075 de 2015."
+    },
+    {
+      "id": "c-por-2",
+      "zone": "porteria",
+      "moment": "12:00 m.",
+      "scene": "Una madre llega a pedir con urgencia que su hija de grado décimo no salga sola porque un expareja la acosa. El vigilante no tiene indicaciones y la jornada termina en dos horas.",
+      "prompt": "¿Qué decides?",
+      "options": [
+        {
+          "text": "Le dices a la madre que eso es un asunto familiar y privado que no corresponde al colegio, y que debe acudir a la policía, sin registrar el caso ni informar a rectoría ni a orientación ni al vigilante.",
+          "level": 0
+        },
+        {
+          "text": "Registras el caso, informas a rectoría y orientación, estableces medidas de protección en la salida con entrega a persona autorizada, informas al vigilante y orientas a la familia para denunciar ante las autoridades competentes, activando la ruta de la Ley 1620.",
+          "level": 3
+        },
+        {
+          "text": "Le pides al vigilante que esté atento y que no entregue a la joven a nadie, sin registrar el caso, sin informar a rectoría ni a orientación y sin orientar a la familia para que denuncie ante las autoridades.",
+          "level": 1
+        },
+        {
+          "text": "Avisas a la directora de grupo y le pides que acompañe a la estudiante en la salida, sin registrar el caso, sin informar a rectoría, ni al vigilante, ni orientar a la familia para que denuncie ante las autoridades.",
+          "level": 2
+        }
+      ],
+      "why": "El riesgo de violencia a una adolescente exige medidas de protección inmediatas y activación de la ruta, con corresponsabilidad de la familia y las autoridades. La instrucción informal al vigilante o a un solo docente no garantiza protección sostenida, y remitir sin acompañar abandona a la estudiante.",
+      "source": "Ley 1098 de 2006; Ley 1620 de 2013 y Decreto 1965 de 2013 (ruta de atención integral); Decreto 1075 de 2015."
+    },
+    {
+      "id": "c-por-3",
+      "zone": "porteria",
+      "moment": "6:45 a.m.",
+      "scene": "Un estudiante migrante venezolano llega con su acudiente sin documentos completos y pide cupo en grado sexto. El vigilante dice que sin papeles no se puede recibir.",
+      "prompt": "¿Cómo actúas?",
+      "options": [
+        {
+          "text": "Le explicas al acudiente que debe regularizar todos los documentos del estudiante antes de volver a pedir el cupo, sin orientarlo con la secretaría ni con la Secretaría de Educación sobre el proceso de matrícula.",
+          "level": 1
+        },
+        {
+          "text": "Garantizas la atención, orientas el proceso de matrícula con la secretaría y la Secretaría de Educación, permites que el estudiante inicie clases mientras se completa la documentación y capacitas a portería sobre el derecho al acceso.",
+          "level": 3
+        },
+        {
+          "text": "Le dices al acudiente que por ahora no hay cupos disponibles en grado sexto, para evitar el trámite de matrícula de un estudiante migrante sin documentos completos, y que no vuelva a preguntar por el cupo.",
+          "level": 0
+        },
+        {
+          "text": "Recibes al estudiante provisionalmente solo por un día en clase, y luego le piden al acudiente volver con todos los papeles completos, sin orientar el proceso con la secretaría ni capacitar a la portería.",
+          "level": 2
+        }
+      ],
+      "why": "El derecho a la educación no puede condicionarse a documentos para el acceso de niños, niñas y adolescentes migrantes. El coordinador debe garantizar el acceso y gestionar los trámites con la autoridad educativa. Pedir papeles previamente, negar cupo o recibir solo un día son barreras de acceso.",
+      "source": "Ley 115 de 1994; Ley 1098 de 2006; Decreto 1075 de 2015 (acceso y permanencia)."
+    },
+    {
+      "id": "c-aca-1",
+      "zone": "academica",
+      "moment": "8:00 a.m.",
+      "scene": "Los resultados del periodo muestran que el 45 % de los estudiantes de grado noveno perdió matemáticas con el mismo docente. Algunos colegas piden sancionarlo y otros dicen que el grupo es difícil.",
+      "prompt": "¿Cómo intervienes?",
+      "options": [
+        {
+          "text": "Pides al docente rebajar la exigencia de sus evaluaciones para mejorar los resultados de matemáticas del periodo, sin revisar su planeación, sus criterios ni sus evidencias, ni acordar un plan de mejoramiento.",
+          "level": 0
+        },
+        {
+          "text": "Analizas con el docente y el área los resultados, revisas planeación, criterios y evidencias, acuerdas un plan de mejoramiento con acompañamiento al aula, apoyo a estudiantes y seguimiento, y lo llevas al consejo académico y al PMI.",
+          "level": 3
+        },
+        {
+          "text": "Citas al docente a un llamado de atención por escrito por los resultados del grupo, sin revisar su planeación ni criterios ni evidencias, y sin acordar un plan de mejoramiento con acompañamiento al aula.",
+          "level": 1
+        },
+        {
+          "text": "Convocas a una reunión del área para discutir los resultados de matemáticas de grado noveno, pero sin acuerdos concretos, sin acompañamiento al aula ni seguimiento, ni llevar el tema al consejo académico.",
+          "level": 2
+        }
+      ],
+      "why": "Los resultados deben leerse como evidencia para mejorar las prácticas y no solo para sancionar. El acompañamiento y el plan articulado al PMI atienden causas pedagógicas y respetan el debido proceso. Bajar la exigencia afecta la calidad, la sanción prematura carece de análisis y la reunión sin acuerdos no transforma nada.",
+      "source": "Decreto 1075 de 2015 (evaluación institucional y consejo académico); Decreto Ley 1278 de 2002 (evaluación de desempeño); Guía MEN Coordinador."
+    },
+    {
+      "id": "c-aca-2",
+      "zone": "academica",
+      "moment": "10:00 a.m.",
+      "scene": "El comité de evaluación y promoción debe decidir sobre un estudiante con PIAR que reprobó tres áreas. Algunos docentes sostienen que el PIAR no obliga a modificar la nota.",
+      "prompt": "¿Cómo orientas la decisión?",
+      "options": [
+        {
+          "text": "Promueves al estudiante por tener discapacidad y para evitar una discusión con la familia, sin revisar los ajustes del PIAR, los avances ni las evidencias, ni documentar la decisión y el plan de apoyo.",
+          "level": 0
+        },
+        {
+          "text": "Revisas los ajustes del PIAR y las evidencias, verificas si se aplicaron los apoyos, decides con criterios del SIEE y documentas la decisión y el plan de apoyo para el siguiente periodo, informando a la familia.",
+          "level": 3
+        },
+        {
+          "text": "Dejas la decisión en cada docente de área, según el criterio de cada uno, sin revisar el PIAR en conjunto, sin verificar los apoyos aplicados ni documentar la decisión ni informar a la familia.",
+          "level": 1
+        },
+        {
+          "text": "Aplicas el SIEE general como para cualquier estudiante, sin considerar los ajustes del PIAR ni verificar los apoyos recibidos, y ofreces actividades de recuperación sin informar a la familia ni documentar.",
+          "level": 2
+        }
+      ],
+      "why": "El SIEE se aplica considerando los ajustes razonables del PIAR, y la decisión debe estar basada en evidencias y apoyos efectivamente brindados. Promover por automatismo o ignorar el PIAR vulnera derechos, y dejar la decisión dispersa genera arbitrariedad.",
+      "source": "Decreto 1421 de 2017 (PIAR); Decreto 1075 de 2015 (SIEE y comisiones de evaluación); Lineamientos MEN."
+    },
+    {
+      "id": "c-aca-3",
+      "zone": "academica",
+      "moment": "3:30 p.m.",
+      "scene": "Al revisar los cuadernos y planeaciones, notas que varios docentes copian las mismas actividades cada año sin relación con los DBA ni con el PEI.",
+      "prompt": "¿Qué estrategia de gestión académica aplicas?",
+      "options": [
+        {
+          "text": "Envías un correo general recordando a todos los docentes que hay que cumplir con los DBA y con el PEI, sin jornadas de trabajo por área, sin acompañamiento al aula ni compromisos de mejora concretos.",
+          "level": 1
+        },
+        {
+          "text": "Organizas jornadas de trabajo por área para actualizar mallas y planeaciones con DBA y PEI, haces acompañamiento al aula con rúbricas conocidas y retroalimentas con evidencias, estableciendo compromisos de mejora.",
+          "level": 3
+        },
+        {
+          "text": "Solicitas a los docentes entregar planeaciones nuevas en una semana, so pena de reporte a rectoría, sin jornadas de trabajo por área ni acompañamiento al aula ni retroalimentación con evidencias.",
+          "level": 0
+        },
+        {
+          "text": "Revisas las planeaciones una por una y las devuelves con observaciones escritas, pero sin jornadas de actualización por área, sin acompañamiento posterior al aula ni compromisos de mejora.",
+          "level": 2
+        }
+      ],
+      "why": "La mejora de las prácticas se logra con trabajo colaborativo, acompañamiento y retroalimentación basada en criterios. Amenazar con reportes genera cumplimiento formal, y los recordatorios o devoluciones sin acompañamiento no transforman la enseñanza.",
+      "source": "Decreto 1075 de 2015; Ley 115 de 1994 (PEI y currículo); Lineamientos MEN: DBA; Guía MEN Coordinador."
+    },
+    {
+      "id": "c-con-1",
+      "zone": "convivencia",
+      "moment": "10:00 a.m.",
+      "scene": "Dos estudiantes de grado décimo se agreden físicamente en el pasillo. Uno de ellos queda con una lesión en el labio y el otro dice que lo hizo porque llevaba semanas siendo hostigado.",
+      "prompt": "¿Cómo manejas el caso?",
+      "options": [
+        {
+          "text": "Suspendes a ambos por tres días de acuerdo con el manual y pides a las familias que los recojan, sin atender primero la lesión, sin escuchar versiones, ni revisar el hostigamiento previo ni reportar al comité de convivencia.",
+          "level": 1
+        },
+        {
+          "text": "Atiendes primero la lesión, separas y escuchas a ambos con garantía de debido proceso, clasificas la situación según el Decreto 1965, informas a los acudientes, reportas al comité de convivencia y defines acciones pedagógicas y de protección, incluyendo el hostigamiento previo.",
+          "level": 3
+        },
+        {
+          "text": "Los obligas a darse la mano frente a todos y a firmar un compromiso de no repetir la pelea, sin atender la lesión del labio ni escuchar a ambos ni clasificar la situación según el Decreto 1965, ni informar a los acudientes.",
+          "level": 0
+        },
+        {
+          "text": "Atiendes la lesión, citas a las familias y aplicas la sanción que corresponde según el manual, sin revisar el contexto ni el hostigamiento previo, sin clasificar la situación según el Decreto 1965 ni reportar al comité.",
+          "level": 2
+        }
+      ],
+      "why": "El caso puede ser situación tipo II y requiere atención en salud, debido proceso, información a las familias y análisis del contexto, incluido el posible acoso. La respuesta formativa y de protección es la ruta de la Ley 1620. La sanción automática y la reconciliación forzada no resuelven la causa y pueden revictimizar.",
+      "source": "Ley 1620 de 2013; Decreto 1965 de 2013 (situaciones tipo I, II y III); Manual de convivencia; Ley 1098 de 2006."
+    },
+    {
+      "id": "c-con-2",
+      "zone": "convivencia",
+      "moment": "2:00 p.m.",
+      "scene": "Una estudiante denuncia ante ti que un docente le envió mensajes con insinuaciones a su celular. Muestra capturas de pantalla y pide que no se lo cuentes a nadie porque tiene miedo.",
+      "prompt": "¿Qué actuación corresponde?",
+      "options": [
+        {
+          "text": "Hablas con el docente para que explique los mensajes y le pides que no vuelva a escribirle a la estudiante, sin conservar las evidencias ni informar a rectoría ni activar la ruta de atención ni reportar.",
+          "level": 1
+        },
+        {
+          "text": "Garantizas la protección de la estudiante, conservas las evidencias, informas de inmediato a rectoría y a la familia, y activas la ruta de atención con reporte a las autoridades competentes y la entidad disciplinaria, sin confrontar al docente por tu cuenta.",
+          "level": 3
+        },
+        {
+          "text": "Guardas la reserva que la estudiante te pidió y esperas a tener más pruebas antes de actuar, sin informar a rectoría ni a la familia ni activar la ruta de atención, ni reportar a las autoridades.",
+          "level": 0
+        },
+        {
+          "text": "Informas a rectoría y dejas que la rectora decida qué hacer con el caso, sin garantizar la protección de la estudiante, ni informar a la familia, ni reportar a las autoridades competentes ni al ente disciplinario.",
+          "level": 2
+        }
+      ],
+      "why": "Una posible violencia sexual contra una menor obliga a reportar a las autoridades competentes y a proteger a la víctima, sin supeditarlo a su petición de reserva. Conservar las pruebas y evitar confrontar al docente protege la investigación. Hablar con el docente o esperar más pruebas incumple el deber legal.",
+      "source": "Ley 1098 de 2006 (deber de denuncia, protección integral); Ley 1620 de 2013; Decreto 1965 de 2013 (situaciones tipo III); Decreto Ley 1278 de 2002 (régimen disciplinario)."
+    },
+    {
+      "id": "c-con-3",
+      "zone": "convivencia",
+      "moment": "8:00 a.m.",
+      "scene": "El comité de convivencia lleva meses sin reunirse. Hay casos de acoso sin seguimiento y los docentes manejan los conflictos cada uno a su manera.",
+      "prompt": "¿Qué haces para fortalecer la gestión de la convivencia?",
+      "options": [
+        {
+          "text": "Pides que los directores de grupo lleven los casos y reporten solo lo grave, sin convocar al comité, sin cronograma de sesiones, sin revisar los casos pendientes con actas ni formar a los docentes en la ruta de atención.",
+          "level": 1
+        },
+        {
+          "text": "Con rectoría, convocas al comité, estableces cronograma de sesiones, revisas los casos pendientes con actas, ajustas el manual con participación de la comunidad y organizas formación sobre la ruta de atención y escuelas de familias.",
+          "level": 3
+        },
+        {
+          "text": "Esperas a que haya un caso grave para convocar al comité de convivencia, y mientras tanto dejas que cada docente siga manejando los conflictos a su manera, sin actas, sin cronograma ni seguimiento a los casos de acoso pendientes.",
+          "level": 0
+        },
+        {
+          "text": "Convocas al comité una sola vez para ponerse al día con algunos casos y dejas pendientes los demás temas, sin cronograma de sesiones, sin ajustar el manual ni organizar formación sobre la ruta de atención ni escuelas de familias.",
+          "level": 2
+        }
+      ],
+      "why": "La Ley 1620 exige que el comité funcione con regularidad, registre las actuaciones y haga seguimiento. Un plan con participación de la comunidad previene y fortalece la corresponsabilidad. Esperar un caso grave es reactivo y las medidas parciales no sostienen el sistema.",
+      "source": "Ley 1620 de 2013 (Comité Escolar de Convivencia); Decreto 1965 de 2013; Decreto 1075 de 2015; Guía MEN Coordinador."
+    },
+    {
+      "id": "c-rec-1",
+      "zone": "rectoria",
+      "moment": "8:00 a.m.",
+      "scene": "El rector te pide que firmes un acta de reunión del consejo directivo en la que no estuviste, para cumplir con un requisito de la Secretaría de Educación.",
+      "prompt": "¿Cómo respondes?",
+      "options": [
+        {
+          "text": "Firmas el acta para evitar un conflicto con tu jefe, ya que es solo un trámite que la Secretaría de Educación exige, aunque no hayas estado en la reunión del consejo directivo.",
+          "level": 0
+        },
+        {
+          "text": "Explicas con respeto que solo puedes firmar lo que consta, propones realizar la sesión o dejar constancia veraz de lo ocurrido, y ofreces apoyo para cumplir el requisito legítimamente.",
+          "level": 3
+        },
+        {
+          "text": "Te niegas a firmar el acta sin dar más explicación al rector y te retiras de la oficina, sin proponer realizar la sesión ni dejar constancia veraz ni ofrecer apoyo con el requisito.",
+          "level": 1
+        },
+        {
+          "text": "Firmas el acta, pero dejas una anotación personal de que no estuviste en la reunión, sin proponer realizar la sesión ni una constancia veraz ante la Secretaría ni ayudar a cumplir el requisito.",
+          "level": 2
+        }
+      ],
+      "why": "Firmar un acta falsa compromete la responsabilidad disciplinaria y la integridad. La mejor actuación es firme, respetuosa y ofrece una alternativa legítima para cumplir. Negarse sin diálogo cierra la solución, y la anotación personal no corrige el documento.",
+      "source": "Decreto Ley 1278 de 2002 (deberes y régimen disciplinario); Decreto 1075 de 2015 (gobierno escolar); Guía MEN Coordinador."
+    },
+    {
+      "id": "c-rec-2",
+      "zone": "rectoria",
+      "moment": "3:30 p.m.",
+      "scene": "La rectoría te encarga liderar la actualización del PEI y el manual de convivencia. Algunos docentes y familias dicen que ya no tienen tiempo para participar.",
+      "prompt": "¿Cómo organizas el proceso?",
+      "options": [
+        {
+          "text": "Redactas la propuesta con un pequeño equipo de confianza y la presentas al consejo directivo para su aprobación, sin diagnóstico, sin mesas con estudiantes, familias ni personero y sin socializar borradores.",
+          "level": 1
+        },
+        {
+          "text": "Diseñas una ruta participativa con diagnóstico, mesas con docentes, estudiantes, familias y personero, horarios flexibles, socialización de borradores y aprobación por el consejo directivo, con registro en actas.",
+          "level": 3
+        },
+        {
+          "text": "Copias el manual de convivencia de otro colegio y lo adaptas rápidamente para cumplir con el plazo, sin hacer diagnóstico ni mesas con docentes, estudiantes, familias y personero, ni aprobación en actas.",
+          "level": 0
+        },
+        {
+          "text": "Haces una consulta con una encuesta breve a la comunidad y luego redactas por tu cuenta el documento, sin mesas de trabajo, sin socializar borradores ni horarios flexibles, y lo llevas al consejo directivo.",
+          "level": 2
+        }
+      ],
+      "why": "El PEI y el manual deben construirse con participación de la comunidad y adoptarse por las instancias del gobierno escolar. La ruta con diagnóstico y flexibilidad da legitimidad y pertinencia. Un equipo reducido o la copia de otros colegios no refleja el contexto, y la sola encuesta limita la participación.",
+      "source": "Ley 115 de 1994 (PEI, gobierno escolar); Decreto 1075 de 2015; Ley 1620 de 2013 (manual de convivencia)."
+    },
+    {
+      "id": "c-rec-3",
+      "zone": "rectoria",
+      "moment": "6:30 a.m.",
+      "scene": "Una docente de planta presenta quejas por sobrecarga de horas y falta de apoyo. Amenaza con quejarse ante la Secretaría de Educación si no se le atiende.",
+      "prompt": "¿Cómo atiendes la situación?",
+      "options": [
+        {
+          "text": "Le dices a la docente que todos los docentes están igual de sobrecargados y que debe ajustarse a la situación, sin revisar su asignación académica ni presentar nada a rectoría ni informarle las instancias.",
+          "level": 0
+        },
+        {
+          "text": "La escuchas, revisas la asignación académica con la normativa, presentas el análisis a rectoría, buscas ajustes posibles y le respondes por escrito con tiempos, informando sobre las instancias a las que puede acudir.",
+          "level": 3
+        },
+        {
+          "text": "Le prometes un cambio en su asignación académica, pero lo dejas para el próximo año sin revisar la normativa ni presentar el análisis a rectoría, sin respuesta escrita ni informar las instancias.",
+          "level": 1
+        },
+        {
+          "text": "Reorganizas su horario por tu cuenta para aliviar la sobrecarga, sin consultar con rectoría ni con otros docentes, sin revisar la normativa y sin responderle por escrito ni informarle las instancias.",
+          "level": 2
+        }
+      ],
+      "why": "Atender los reclamos laborales con análisis normativo y respuesta por escrito respeta los derechos de la docente y protege la institución. Las promesas vagas, la minimización o las decisiones unilaterales generan nuevos conflictos.",
+      "source": "Decreto Ley 1278 de 2002 (derechos y deberes docentes); Decreto 1075 de 2015 (asignación académica); Ley 1755 de 2015."
+    },
+    {
+      "id": "c-aul-1",
+      "zone": "aula",
+      "moment": "8:00 a.m.",
+      "scene": "Haces una visita de acompañamiento al aula y ves que un docente dicta la clase en voz monótona, sin participación de los estudiantes. Él es muy cumplidor y está cerca de su evaluación de desempeño.",
+      "prompt": "¿Cómo manejas la retroalimentación?",
+      "options": [
+        {
+          "text": "Registras todo lo observado en el formato de evaluación y se lo entregas por escrito sin conversar con él, sin reconocer fortalezas, sin acordar metas de mejora ni programar un nuevo acompañamiento al aula.",
+          "level": 1
+        },
+        {
+          "text": "Dialogas con él en privado, reconoces fortalezas, presentas las evidencias observadas, acuerdas metas de mejora con estrategias activas y un nuevo acompañamiento, de acuerdo con los criterios de evaluación.",
+          "level": 3
+        },
+        {
+          "text": "No dices nada al docente sobre la clase monótona porque es muy cumplidor y no quieres afectar su evaluación, y dejas pasar la observación sin dialogar ni acordar metas ni un nuevo acompañamiento.",
+          "level": 0
+        },
+        {
+          "text": "Le sugieres al docente cambiar de metodología hacia estrategias más activas en una charla breve, pero no defines metas ni seguimiento ni un nuevo acompañamiento, ni presentas las evidencias de lo que observaste.",
+          "level": 2
+        }
+      ],
+      "why": "El acompañamiento formativo parte de evidencias, reconoce fortalezas y define compromisos con seguimiento, en coherencia con la evaluación de desempeño. Entregar el formato sin diálogo o callar no genera mejora, y la sugerencia sin seguimiento queda sin efecto.",
+      "source": "Decreto Ley 1278 de 2002 (evaluación de desempeño, arts. 26 a 35); Decreto 1075 de 2015; Guía MEN Coordinador."
+    },
+    {
+      "id": "c-aul-2",
+      "zone": "aula",
+      "moment": "10:00 a.m.",
+      "scene": "Un docente saca del salón a un estudiante con TDAH cada vez que se mueve en clase. Los padres presentan una queja y piden que se respete el PIAR.",
+      "prompt": "¿Qué decisión tomas?",
+      "options": [
+        {
+          "text": "Le pides al docente que ya no saque al estudiante del salón cuando se mueve, sin más explicación, sin revisar el PIAR ni acordar estrategias ni apoyos con la docente de apoyo ni hacer seguimiento.",
+          "level": 1
+        },
+        {
+          "text": "Escuchas a los padres y al docente, revisas el PIAR, acuerdas con el docente estrategias de manejo del movimiento y apoyos con la docente de apoyo, haces seguimiento y registras los compromisos.",
+          "level": 3
+        },
+        {
+          "text": "Le dices a los padres que el docente tiene autonomía en su aula para manejar la disciplina, y que no es posible intervenir ni revisar el PIAR, sin escuchar la queja ni hacer seguimiento ni registrar compromisos.",
+          "level": 0
+        },
+        {
+          "text": "Reúnes a las partes y propones que el estudiante se siente cerca de la puerta para moverse sin interrumpir, sin revisar el PIAR, sin apoyos de la docente de apoyo ni seguimiento ni registro de compromisos.",
+          "level": 2
+        }
+      ],
+      "why": "Los ajustes razonables del PIAR son obligatorios y la exclusión del aula vulnera el derecho a la educación inclusiva. El diálogo con las partes, el acompañamiento y el seguimiento corrigen la práctica. Ordenar sin explicar no cambia la comprensión del docente, y ceder a la autonomía niega la queja.",
+      "source": "Decreto 1421 de 2017; Ley 115 de 1994; Decreto 1075 de 2015."
+    },
+    {
+      "id": "c-aul-3",
+      "zone": "aula",
+      "moment": "2:00 p.m.",
+      "scene": "Una docente falta tres días seguidos por incapacidad y no hay reemplazo. Los estudiantes de grado sexto están sin clase y algunos salen del salón.",
+      "prompt": "¿Cómo garantizas la continuidad pedagógica?",
+      "options": [
+        {
+          "text": "Dejas a los estudiantes de sexto en el patio para evitar desorden en los salones durante los tres días, sin guías del área ni docentes de apoyo ni comunicación a las familias ni gestión del reemplazo.",
+          "level": 0
+        },
+        {
+          "text": "Organizas un plan de contingencia con guías diseñadas por el área, docentes de apoyo por horas, seguimiento a la tarea y comunicación a las familias, y gestionas el nombramiento del reemplazo ante la Secretaría.",
+          "level": 3
+        },
+        {
+          "text": "Asignas a un estudiante líder para que se encargue del grupo mientras vuelve la docente, sin guías de trabajo, sin docentes de apoyo, sin comunicar a las familias ni gestionar el reemplazo ante la Secretaría.",
+          "level": 1
+        },
+        {
+          "text": "Asignas docentes de otras áreas para cuidar al grupo mientras tanto, sin guías diseñadas por el área, sin seguimiento a la tarea ni comunicación a las familias ni gestión del reemplazo ante la Secretaría.",
+          "level": 2
+        }
+      ],
+      "why": "La continuidad pedagógica es una responsabilidad de la gestión y exige tanto un plan inmediato como la gestión del reemplazo. Cuidar al grupo no equivale a enseñar, y dejar a los estudiantes sin supervisión o a cargo de un compañero pone en riesgo su derecho y su seguridad.",
+      "source": "Ley 115 de 1994; Decreto 1075 de 2015 (administración de la planta docente); Ley 1098 de 2006."
+    },
+    {
+      "id": "c-apo-1",
+      "zone": "apoyo",
+      "moment": "8:00 a.m.",
+      "scene": "Una madre de un estudiante con discapacidad intelectual pide matrícula en grado octavo. Algunos docentes dicen que el colegio no tiene la preparación para atenderlo.",
+      "prompt": "¿Cómo decides?",
+      "options": [
+        {
+          "text": "Le sugieres a la madre buscar una institución especializada, que sería mejor para su hijo con discapacidad intelectual, y no garantizas la matrícula, sin convocar al equipo ni elaborar el PIAR con ella.",
+          "level": 0
+        },
+        {
+          "text": "Garantizas la matrícula, convocas al equipo con orientación y docentes de apoyo para elaborar el PIAR junto con la familia, planeas los ajustes, y gestionas formación y apoyo ante la Secretaría de Educación.",
+          "level": 3
+        },
+        {
+          "text": "Aceptas la matrícula, pero sin definir apoyos hasta ver cómo se adapta el estudiante, sin convocar al equipo de orientación y docentes de apoyo, ni elaborar el PIAR con la familia ni gestionar formación.",
+          "level": 1
+        },
+        {
+          "text": "Aceptas la matrícula y pides a la docente de apoyo que lo atienda aparte del grupo, sin elaborar el PIAR con la familia ni planear los ajustes con los docentes, ni gestionar formación ante la Secretaría.",
+          "level": 2
+        }
+      ],
+      "why": "La inclusión es un derecho y no depende de la voluntad institucional. La matrícula debe acompañarse de PIAR, ajustes y gestión de apoyos. Rechazar o derivar a otro colegio es discriminación, esperar a ver cómo se adapta deja sin apoyos y la atención aparte segrega.",
+      "source": "Decreto 1421 de 2017 (educación inclusiva, PIAR); Ley 115 de 1994; Decreto 1075 de 2015."
+    },
+    {
+      "id": "c-apo-2",
+      "zone": "apoyo",
+      "moment": "12:00 m.",
+      "scene": "Hay un grupo de estudiantes con alta inasistencia por trabajo informal. El comité cree que se trata de falta de compromiso familiar.",
+      "prompt": "¿Qué estrategia propones?",
+      "options": [
+        {
+          "text": "Reportas a todos los estudiantes con inasistencia al ICBF sin hablar antes con las familias, sin analizar los casos con orientación, sin flexibilizar actividades ni hacer seguimiento a la permanencia escolar.",
+          "level": 1
+        },
+        {
+          "text": "Analizas los casos con orientación, contactas a las familias con un enfoque de apoyo, flexibilizas actividades, gestionas articulación con la Secretaría de Educación y entidades de protección si hay riesgo, y haces seguimiento a la permanencia.",
+          "level": 3
+        },
+        {
+          "text": "Aplicas la pérdida por inasistencia según el manual a todos los estudiantes que trabajan, dando la razón al comité sobre la falta de compromiso familiar, sin analizar los casos ni contactar a las familias ni flexibilizar.",
+          "level": 0
+        },
+        {
+          "text": "Haces llamados telefónicos a las familias y envías citaciones formales al colegio para exigir asistencia, sin analizar los casos con orientación, sin flexibilizar actividades ni articular con la Secretaría de Educación.",
+          "level": 2
+        }
+      ],
+      "why": "La inasistencia por trabajo infantil o necesidad económica requiere diagnóstico y gestión intersectorial, con foco en la permanencia. Sancionar o reportar de manera masiva no resuelve las causas, y limitarse a citaciones carece de acompañamiento real.",
+      "source": "Ley 1098 de 2006 (restablecimiento de derechos, trabajo infantil); Ley 115 de 1994; Decreto 1075 de 2015 (permanencia)."
+    },
+    {
+      "id": "c-apo-3",
+      "zone": "apoyo",
+      "moment": "3:30 p.m.",
+      "scene": "La escuela de familias del colegio tiene muy baja asistencia. Las reuniones son tipo conferencia y las familias dicen que no se sienten escuchadas.",
+      "prompt": "¿Cómo la rediseñas?",
+      "options": [
+        {
+          "text": "Haces las reuniones de la escuela de familias obligatorias con firma de asistencia, sin consultar a las familias sobre sus necesidades, sin metodologías participativas ni vincular a la asociación de padres ni evaluar el impacto.",
+          "level": 0
+        },
+        {
+          "text": "Consultas a las familias sobre sus necesidades, defines temas y horarios con ellas, usas metodologías participativas, vinculas a la asociación de padres y evalúas el impacto con indicadores en el PMI.",
+          "level": 3
+        },
+        {
+          "text": "Cambias el horario de las reuniones y envías más citaciones a las familias, pero mantienes el formato de conferencia, sin consultarlas sobre sus necesidades ni usar metodologías participativas ni evaluar el impacto.",
+          "level": 1
+        },
+        {
+          "text": "Mantienes los mismos temas de las conferencias, pero agregas refrigerio y rifas para atraer a más familias, sin consultarlas sobre sus necesidades, sin metodologías participativas ni evaluar el impacto con indicadores.",
+          "level": 2
+        }
+      ],
+      "why": "La corresponsabilidad de la familia se fortalece con participación real y pertinencia. La consulta, la co-construcción y la evaluación dan sostenibilidad. Obligar o incentivar sin cambiar el enfoque mantiene el modelo unidireccional.",
+      "source": "Ley 115 de 1994 (participación de padres); Ley 1620 de 2013 (corresponsabilidad); Lineamientos MEN: escuela de familias; PMI."
+    },
+    {
+      "id": "c-psi-1",
+      "zone": "psico",
+      "moment": "10:00 a.m.",
+      "scene": "La orientadora te informa que un estudiante de grado noveno tiene ideación suicida y su familia se niega a acudir a salud por temor al estigma.",
+      "prompt": "¿Qué decides?",
+      "options": [
+        {
+          "text": "Respetas la decisión de la familia de no acudir a salud, pues es su derecho, y haces seguimiento solo en el colegio, sin activar la ruta de atención, sin gestionar con la EPS ni la Comisaría de Familia.",
+          "level": 1
+        },
+        {
+          "text": "Activas la ruta de atención, informas a rectoría, convocas a la familia para explicar la importancia de la atención en salud, gestionas con la EPS y la Comisaría si persiste la negativa, y acuerdas un plan de acompañamiento escolar.",
+          "level": 3
+        },
+        {
+          "text": "Le pides al docente de grupo que vigile al estudiante y que no divulgue su situación, sin activar la ruta de atención, sin informar a rectoría ni convocar a la familia ni gestionar con la EPS ni con la Comisaría.",
+          "level": 0
+        },
+        {
+          "text": "Insistes con la familia una vez más para que acuda a salud y, si se niegan de nuevo, das por cerrado el tema, sin activar la ruta de atención, sin gestionar con la EPS ni la Comisaría ni un plan de acompañamiento.",
+          "level": 2
+        }
+      ],
+      "why": "Ante riesgo para la vida, la negativa familiar no exime a la institución de agotar la ruta, incluida la intervención de autoridades de protección. El acompañamiento escolar complementa, no sustituye, la atención en salud. Vigilar sin ruta o cerrar el tema deja desprotegido al estudiante.",
+      "source": "Ley 1098 de 2006; Ley 1620 de 2013 y Decreto 1965 de 2013 (ruta de atención integral); Decreto 1075 de 2015."
+    },
+    {
+      "id": "c-psi-2",
+      "zone": "psico",
+      "moment": "2:00 p.m.",
+      "scene": "Se detecta consumo de sustancias psicoactivas en un grupo de estudiantes de grado décimo. Algunos padres piden expulsarlos y otros que el tema no se haga público.",
+      "prompt": "¿Cómo actúas?",
+      "options": [
+        {
+          "text": "Cancelas de inmediato la matrícula de los estudiantes involucrados para dar ejemplo a la comunidad, sin informar a las familias ni aplicar la ruta de atención ni remitir a salud, y sin estrategias de prevención.",
+          "level": 0
+        },
+        {
+          "text": "Aplicas la ruta de atención, informas a las familias, remites a salud y entidades de protección, evitas la estigmatización, aplicas medidas pedagógicas con debido proceso y desarrollas estrategias de prevención con toda la comunidad.",
+          "level": 3
+        },
+        {
+          "text": "Aplicas una suspensión a los estudiantes involucrados y organizas una charla grupal sobre drogas, sin remitir a salud ni a entidades de protección, sin evitar la estigmatización ni desarrollar prevención con la comunidad.",
+          "level": 1
+        },
+        {
+          "text": "Manejas el caso internamente con orientación para proteger la imagen del colegio, sin informar a las familias, sin remitir a salud ni entidades de protección, ni estrategias de prevención con toda la comunidad.",
+          "level": 2
+        }
+      ],
+      "why": "El consumo se aborda como asunto de salud y protección, no solo disciplinario. La ruta con debido proceso, remisión a salud y prevención universal respeta los derechos. Expulsar estigmatiza y suspender sin acompañamiento no trata la causa, y ocultar el caso incumple las obligaciones de reporte.",
+      "source": "Ley 1098 de 2006; Ley 1620 de 2013 y Decreto 1965 de 2013; Decreto 1075 de 2015; Manual de convivencia."
+    },
+    {
+      "id": "c-psi-3",
+      "zone": "psico",
+      "moment": "12:00 m.",
+      "scene": "Una estudiante de grado octavo está embarazada y su familia teme que la expulsen. Algunos docentes opinan que debería pasar a la jornada nocturna.",
+      "prompt": "¿Qué decisión tomas?",
+      "options": [
+        {
+          "text": "Aceptas que la estudiante cambie a la jornada nocturna para evitar comentarios de otros docentes, sin garantizar su permanencia en la jornada regular, sin coordinar con orientación y salud ni sensibilizar a la comunidad.",
+          "level": 1
+        },
+        {
+          "text": "Garantizas la permanencia en la jornada regular, coordinas con orientación y salud los controles prenatales, flexibilizas tareas y evaluaciones cuando sea necesario, y sensibilizas a la comunidad contra la discriminación.",
+          "level": 3
+        },
+        {
+          "text": "Le sugieres a la estudiante retirarse del colegio hasta que dé a luz, para que no se afecte su salud, sin garantizar su permanencia, sin coordinar controles prenatales ni flexibilizar tareas ni sensibilizar a la comunidad.",
+          "level": 0
+        },
+        {
+          "text": "La mantienes en el colegio, pero sin cambios ni apoyos adicionales, sin coordinar con orientación y salud los controles prenatales, sin flexibilizar tareas ni evaluaciones ni sensibilizar a la comunidad.",
+          "level": 2
+        }
+      ],
+      "why": "El embarazo no es causal para negar o limitar la educación. La permanencia con apoyos y flexibilidad garantiza sus derechos y previene la deserción. Retirarla o cambiarla de jornada es discriminación, y no ofrecer apoyos desconoce su situación.",
+      "source": "Ley 1098 de 2006; Ley 115 de 1994; Ley 1620 de 2013 (derechos sexuales y reproductivos); Decreto 1075 de 2015."
+    },
+    {
+      "id": "c-pat-1",
+      "zone": "patio",
+      "moment": "10:00 a.m.",
+      "scene": "Durante el descanso hay una pelea con más de 20 estudiantes alrededor, muchos grabando con el celular. Dos docentes de turno no logran contenerla.",
+      "prompt": "¿Cuál es tu actuación?",
+      "options": [
+        {
+          "text": "Te unes al grupo y separas a los que peleaban, regañándolos frente a todos los estudiantes, sin atender las lesiones, sin evitar la difusión de videos, sin recoger versiones ni activar la ruta del Decreto 1965.",
+          "level": 1
+        },
+        {
+          "text": "Apoyas a los docentes en la contención, organizas el despeje del espacio, atiendes lesiones, llamas a familias y a salud si es necesario, recoges versiones por separado, evitas la difusión de videos y activas la ruta según el Decreto 1965.",
+          "level": 3
+        },
+        {
+          "text": "Pides a los estudiantes que ya terminen la pelea y llamas a la policía de infancia para que se encargue, sin apoyar la contención con los docentes, sin atender lesiones ni recoger versiones ni activar la ruta del Decreto 1965.",
+          "level": 0
+        },
+        {
+          "text": "Separas la pelea y envías a los involucrados a sus casas ese mismo día, sin atender las lesiones, sin llamar a las familias ni recoger versiones por separado, sin evitar la difusión de videos ni activar la ruta.",
+          "level": 2
+        }
+      ],
+      "why": "La situación exige contención segura, atención a lesionados, debido proceso y manejo de la difusión de imágenes, que puede constituir otra vulneración. Enviar a los estudiantes a casa sin proceso o delegar en la policía evade la competencia formativa del colegio.",
+      "source": "Ley 1620 de 2013; Decreto 1965 de 2013; Ley 1098 de 2006; Manual de convivencia."
+    },
+    {
+      "id": "c-pat-2",
+      "zone": "patio",
+      "moment": "12:00 m.",
+      "scene": "Notas que en los descansos los niños de preescolar y primaria comparten el patio con los grandes y varios tienen golpes. Hay pocos docentes de turno.",
+      "prompt": "¿Qué mejora propones?",
+      "options": [
+        {
+          "text": "Pides a los docentes estar más atentos durante los descansos y a los estudiantes portarse bien, sin rediseñar el espacio por edades, sin turnos con roles claros ni juegos dirigidos ni incluir el tema en el PMI.",
+          "level": 0
+        },
+        {
+          "text": "Rediseñas los descansos con zonas diferenciadas por edades, turnos de vigilancia con roles claros, juegos dirigidos, formación en mediación y participación del personero y los estudiantes, incluyéndolo en el PMI.",
+          "level": 3
+        },
+        {
+          "text": "Reduces el tiempo de descanso para disminuir los incidentes en el patio, sin zonas diferenciadas por edades, sin turnos de vigilancia con roles claros ni formación en mediación ni participación de los estudiantes.",
+          "level": 1
+        },
+        {
+          "text": "Agregas dos docentes de turno al patio, pero sin cambiar la organización de los descansos, sin zonas por edades, sin roles claros ni juegos dirigidos ni participación del personero y sin incluirlo en el PMI.",
+          "level": 2
+        }
+      ],
+      "why": "La prevención se logra con organización del espacio, roles y participación de los estudiantes. Más docentes sin rediseño solo mejora parcialmente, reducir el descanso afecta el derecho al juego y exhortar sin estructura no cambia nada.",
+      "source": "Ley 1620 de 2013 (prevención y promoción); Ley 1098 de 2006 (derecho al juego y recreación); PMI; Decreto 1075 de 2015."
+    },
+    {
+      "id": "c-pat-3",
+      "zone": "patio",
+      "moment": "6:30 a.m.",
+      "scene": "Durante la formación se anuncia que se irá a un evento deportivo fuera del colegio. Faltan autorizaciones de varias familias y no hay claridad sobre el transporte ni los seguros.",
+      "prompt": "¿Qué decides?",
+      "options": [
+        {
+          "text": "Autorizas la salida porque ya está programada y avisas a los padres durante el trayecto, sin contar con autorizaciones escritas, sin verificar transporte legal ni seguro ni docentes acompañantes ni aprobación de rectoría.",
+          "level": 0
+        },
+        {
+          "text": "Condicionas la salida a contar con autorizaciones escritas, transporte legal, seguro, docentes acompañantes suficientes y aprobación de rectoría, y ofreces una actividad alterna para quienes no vayan, sin sancionarlos.",
+          "level": 3
+        },
+        {
+          "text": "Llevas solo a los estudiantes con autorización y dejas a los demás en el salón sin actividad, sin verificar el transporte legal, el seguro, los docentes acompañantes ni la aprobación de rectoría.",
+          "level": 1
+        },
+        {
+          "text": "Pides las autorizaciones el mismo día y sales si la mayoría las entrega, sin verificar el transporte legal, el seguro ni los docentes acompañantes, sin aprobación de rectoría ni actividad alterna para quienes no vayan.",
+          "level": 2
+        }
+      ],
+      "why": "Las salidas pedagógicas exigen condiciones de seguridad, autorización de familias y respaldo institucional. Garantizar una actividad alterna protege el derecho de los que no asisten. Improvisar o salir sin condiciones expone a los estudiantes a riesgos y a la institución a responsabilidad.",
+      "source": "Ley 1098 de 2006 (protección integral); Decreto 1075 de 2015; Manual de convivencia y protocolos de salidas pedagógicas."
+    }
+  ]
+}

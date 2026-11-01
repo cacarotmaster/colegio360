@@ -12,15 +12,15 @@
           "level": 3
         },
         {
-          "text": "Le dices al padre que el manual de convivencia es claro, que la hora de entrada está establecida y que la norma se cumple para todos, y sigues hacia tu salón para no llegar tarde a tu primera clase.",
+          "text": "Le dices al padre que el manual de convivencia es claro, que la hora de entrada está establecida y que la norma se cumple para todos sin excepciones, y sigues hacia tu salón para no llegar tarde a tu primera clase del día.",
           "level": 0
         },
         {
-          "text": "Dejas entrar al niño sin preguntar nada para evitar el escándalo frente a los demás estudiantes, y le dices al padre que mañana hable directamente con el rector para resolver su reclamo.",
+          "text": "Dejas entrar al niño sin preguntar nada para evitar el escándalo frente a los demás estudiantes, y le dices al padre que mañana hable directamente con el rector para resolver su reclamo, sin dejar registro.",
           "level": 1
         },
         {
-          "text": "Acompañas al padre hasta coordinación y le pides que explique allí su reclamo con calma, pero sin atender al estudiante, que se queda esperando afuera mientras se define quién tiene la razón.",
+          "text": "Acompañas al padre hasta coordinación y le pides que explique allí su reclamo con calma, pero sin atender al estudiante, que se queda esperando afuera en la portería mientras se define quién tiene la razón.",
           "level": 2
         }
       ],
@@ -89,7 +89,7 @@
       "prompt": "¿Cómo manejas la situación?",
       "options": [
         {
-          "text": "Lo sacas del salón de inmediato y lo mandas a coordinación con una anotación en el observador del alumno, sin hablar con él ni con el compañero que fue objeto de la burla.",
+          "text": "Lo sacas del salón de inmediato y lo mandas a coordinación con una anotación en el observador del alumno, sin hablar con él ni con el compañero que fue objeto de la burla, y sin revisar si hay acoso reiterado.",
           "level": 1
         },
         {
@@ -97,11 +97,11 @@
           "level": 3
         },
         {
-          "text": "Haces como que no escuchas los chistes ni las burlas y continúas con el tema de la clase para no darle protagonismo al estudiante ni interrumpir el ritmo, esperando que se calme solo.",
+          "text": "Haces como que no escuchas los chistes ni las burlas y continúas con el tema de la clase para no darle protagonismo al estudiante, esperando que el grupo se aburra y que él se calme solo.",
           "level": 0
         },
         {
-          "text": "Lo reprendes con firmeza frente a todo el grupo y le exiges pedirle disculpas públicas a su compañero tímido, sin hablar después con ninguno de los dos en privado ni revisar el manual.",
+          "text": "Lo reprendes con firmeza frente a todo el grupo y le exiges pedirle disculpas públicas a su compañero tímido, sin hablar después con ninguno de los dos en privado ni revisar el manual ni la posible ruta de la Ley 1620.",
           "level": 2
         }
       ],
@@ -143,7 +143,7 @@
       "prompt": "¿Cuál es tu primera actuación?",
       "options": [
         {
-          "text": "Le pides a la compañera que no difunda el rumor ni lo comente con nadie más, y esperas a ver si la estudiante te cuenta algo por iniciativa propia, sin reportar nada al comité ni a orientación.",
+          "text": "Le pides a la compañera que no difunda el rumor ni lo comente con nadie más, y esperas a ver si la estudiante te cuenta algo por iniciativa propia, sin registrar lo que sabes ni reportar nada al comité de convivencia ni a orientación.",
           "level": 0
         },
         {
@@ -151,11 +151,11 @@
           "level": 3
         },
         {
-          "text": "Llamas de inmediato a los presuntos agresores al salón y les exiges borrar los mensajes, entregar sus celulares y pedirle perdón a la estudiante, sin informar al comité ni activar ninguna ruta.",
+          "text": "Llamas de inmediato a los presuntos agresores al salón y les exiges borrar los mensajes, entregar sus celulares y pedirle perdón a la estudiante, sin proteger a la víctima ni informar al comité ni activar ninguna ruta de atención.",
           "level": 1
         },
         {
-          "text": "Hablas con la estudiante de forma privada y le recomiendas bloquear a los autores de los mensajes y no responderles, pero no reportas lo ocurrido al comité de convivencia ni a orientación.",
+          "text": "Hablas con la estudiante de forma privada y le recomiendas bloquear a los autores de los mensajes y no responderles, pero no registras lo que conoces ni reportas lo ocurrido al comité de convivencia ni a orientación.",
           "level": 2
         }
       ],
@@ -178,7 +178,7 @@
           "level": 1
         },
         {
-          "text": "Le pides a la familia que busque un colegio especializado en autismo, porque no tienes formación en el tema y consideras que el niño estaría mejor atendido en otra institución distinta.",
+          "text": "Le pides a la familia que busque un colegio especializado en autismo, porque no tienes formación en el tema y consideras que el niño estaría mejor atendido en otra institución distinta y con docentes más preparados.",
           "level": 0
         },
         {
@@ -224,7 +224,7 @@
       "prompt": "¿Cuál es la mejor estrategia?",
       "options": [
         {
-          "text": "Reportas las inasistencias frecuentes al coordinador para que se aplique el manual de convivencia y esperas la sanción correspondiente, sin indagar por las causas de la ausencia ni por su situación.",
+          "text": "Reportas las inasistencias frecuentes al coordinador para que se aplique el manual de convivencia y esperas la sanción correspondiente, sin indagar por las causas de la ausencia ni por su situación de desplazamiento.",
           "level": 1
         },
         {
@@ -232,11 +232,11 @@
           "level": 3
         },
         {
-          "text": "Concluyes que el estudiante no tiene interés en estudiar por su situación familiar y centras tu atención en quienes sí participan en clase, dejando de insistirle con las actividades y con las tareas.",
+          "text": "Concluyes que el estudiante no tiene interés en estudiar por su situación familiar y centras tu atención en quienes sí participan en clase, dejando de insistirle con las actividades y con las tareas, pues piensas que su rezago ya no tiene remedio.",
           "level": 0
         },
         {
-          "text": "Le ayudas con tareas extra y refuerzo durante el descanso para que nivele sus temas atrasados, pero sin informar a orientación, coordinación ni a ninguna otra instancia sobre su situación de desplazamiento.",
+          "text": "Le ayudas con tareas extra y refuerzo durante el descanso para que nivele sus temas atrasados, pero sin informar a orientación, coordinación ni a ninguna otra instancia sobre su situación de desplazamiento ni la del acudiente.",
           "level": 2
         }
       ],
@@ -263,7 +263,7 @@
           "level": 1
         },
         {
-          "text": "Informas a orientación después de terminar la jornada, pero no a la familia ni a coordinación hasta que se tenga certeza de que el riesgo es real, y la dejas ir sola a su casa ese día.",
+          "text": "Informas a orientación después de terminar la jornada, pero no a la familia ni a coordinación hasta que se tenga certeza de que el riesgo es real, y la dejas ir sola a su casa ese mismo día sin acompañamiento.",
           "level": 2
         }
       ],
@@ -278,7 +278,7 @@
       "prompt": "¿Qué actuación corresponde?",
       "options": [
         {
-          "text": "Citas al padre al colegio para pedirle explicaciones sobre los moretones y le adviertes con firmeza que no puede golpear al niño, sin reportar a orientación, rectoría ni a ninguna autoridad.",
+          "text": "Citas al padre al colegio para pedirle explicaciones sobre los moretones y le adviertes con firmeza que no puede golpear al niño, sin registrar lo observado ni reportar a orientación, rectoría ni a ninguna autoridad.",
           "level": 1
         },
         {
@@ -286,11 +286,11 @@
           "level": 3
         },
         {
-          "text": "No dices nada a nadie porque no tienes pruebas de que el niño sea maltratado en casa y podrías afectar a la familia con una acusación que luego no se pueda comprobar ante las autoridades.",
+          "text": "No dices nada a nadie porque no tienes pruebas de que el niño sea maltratado en casa y podrías afectar a la familia con una acusación que luego no se pueda comprobar, así que prefieres esperar y no actuar.",
           "level": 0
         },
         {
-          "text": "Hablas con el niño en privado, le ofreces apoyo y confianza, y esperas a ver si aparecen más señales en los próximos días antes de reportar a orientación, a rectoría o a las autoridades.",
+          "text": "Hablas con el niño en privado, le ofreces apoyo y confianza, y esperas a ver si aparecen más señales en los próximos días antes de reportar a orientación, a rectoría o a las autoridades, sin dejar constancia.",
           "level": 2
         }
       ],
@@ -305,7 +305,7 @@
       "prompt": "¿Cómo actúas desde tu rol?",
       "options": [
         {
-          "text": "Sigues usando el nombre del registro civil para evitar problemas, ya que así aparece en las listas y en el sistema, y no intervienes ni cuando algunos compañeros la molestan por su identidad.",
+          "text": "Sigues usando el nombre del registro civil para evitar problemas, ya que así aparece en las listas y en el sistema, y no intervienes ni cuando algunos compañeros la molestan por su identidad dentro del colegio.",
           "level": 0
         },
         {
@@ -313,11 +313,11 @@
           "level": 3
         },
         {
-          "text": "Le pides discreción a la estudiante y que no insista con el tema para que no genere conflictos con otros docentes que se niegan, sin intervenir frente a las burlas de los compañeros.",
+          "text": "Le pides discreción a la estudiante y que no insista con el tema para que no genere conflictos con otros docentes que se niegan, sin intervenir frente a las burlas de los compañeros ni reportarlas al comité.",
           "level": 1
         },
         {
-          "text": "La llamas por su nombre identitario solo en tu clase, con respeto, pero no intervienes en lo que ocurre afuera ni reportas al comité de convivencia las burlas y la negativa de otros docentes.",
+          "text": "La llamas por su nombre identitario solo en tu clase, con respeto, pero no intervienes en lo que ocurre afuera ni reportas al comité de convivencia las burlas y la negativa de otros docentes ni revisas el manual.",
           "level": 2
         }
       ],
@@ -417,11 +417,11 @@
           "level": 3
         },
         {
-          "text": "Le dices al padre que la nota es definitiva, que la estudiante no hizo lo necesario para aprobar y que no hay nada que discutir, sin mostrar las evidencias ni informar las instancias de reclamación.",
+          "text": "Le dices al padre que la nota es definitiva, que la estudiante no hizo lo necesario para aprobar y que no hay nada que discutir, sin mostrar las evidencias del periodo ni informar las instancias de reclamación ni acordar ningún apoyo.",
           "level": 0
         },
         {
-          "text": "Revisas la nota y la subes un poco, aunque las evidencias no lo justifiquen, para evitar que el padre eleve un reclamo formal ante coordinación y para no tener más problemas con la familia.",
+          "text": "Revisas la nota y la subes un poco, aunque las evidencias no lo justifiquen, para evitar que el padre eleve un reclamo formal ante coordinación y para no tener más problemas con él ni con la familia.",
           "level": 1
         },
         {
@@ -658,7 +658,7 @@
       "prompt": "¿Cómo manejas la situación como coordinador?",
       "options": [
         {
-          "text": "Le pides al docente acusado que no se presente hoy al colegio para calmar los ánimos de los padres, sin recibir la queja ni informar al rector ni garantizar el debido proceso para él.",
+          "text": "Le pides al docente acusado que no se presente hoy al colegio para calmar los ánimos de los padres, sin recibir la queja ni informar al rector ni garantizar el debido proceso para él ni explicar la ruta de atención.",
           "level": 1
         },
         {
@@ -666,11 +666,11 @@
           "level": 3
         },
         {
-          "text": "Llamas de inmediato a la policía para que despeje la entrada por la fuerza, sin dialogar con los voceros de los padres ni recibir su queja, mientras los estudiantes siguen esperando afuera.",
+          "text": "Llamas de inmediato a la policía para que despeje la entrada por la fuerza, sin dialogar con los voceros de los padres ni recibir su queja por escrito, mientras los estudiantes siguen esperando afuera y sin informar al rector.",
           "level": 0
         },
         {
-          "text": "Les dices a los padres que el rector los atenderá más tarde y que despejen la puerta para que entren los estudiantes, sin dialogar con los voceros ni recibir su queja por escrito.",
+          "text": "Les dices a los padres que el rector los atenderá más tarde y que despejen la puerta para que entren los estudiantes, sin dialogar con los voceros, sin recibir su queja por escrito ni explicar la ruta de atención.",
           "level": 2
         }
       ],
@@ -685,7 +685,7 @@
       "prompt": "¿Qué decides?",
       "options": [
         {
-          "text": "Le dices a la madre que eso es un asunto familiar y privado que no corresponde al colegio, y que debe acudir a la policía, sin registrar el caso ni informar a rectoría ni a orientación ni al vigilante.",
+          "text": "Le dices a la madre que eso es un asunto familiar y privado que no corresponde al colegio, y que debe acudir a la policía por su cuenta, sin registrar el caso ni informar a rectoría, a orientación ni al vigilante, ni activar la ruta de la Ley 1620.",
           "level": 0
         },
         {
@@ -693,11 +693,11 @@
           "level": 3
         },
         {
-          "text": "Le pides al vigilante que esté atento y que no entregue a la joven a nadie, sin registrar el caso, sin informar a rectoría ni a orientación y sin orientar a la familia para que denuncie ante las autoridades.",
+          "text": "Le pides al vigilante que esté atento y que no entregue a la joven a nadie, sin registrar el caso, sin informar a rectoría ni a orientación y sin orientar a la familia para que denuncie ante las autoridades competentes ni activar la ruta de la Ley 1620.",
           "level": 1
         },
         {
-          "text": "Avisas a la directora de grupo y le pides que acompañe a la estudiante en la salida, sin registrar el caso, sin informar a rectoría, ni al vigilante, ni orientar a la familia para que denuncie ante las autoridades.",
+          "text": "Avisas a la directora de grupo y le pides que acompañe a la estudiante en la salida, sin registrar el caso, sin informar a rectoría ni al vigilante, ni orientar a la familia para que denuncie ante las autoridades ni activar la ruta.",
           "level": 2
         }
       ],
@@ -820,7 +820,7 @@
       "prompt": "¿Cómo manejas el caso?",
       "options": [
         {
-          "text": "Suspendes a ambos por tres días de acuerdo con el manual y pides a las familias que los recojan, sin atender primero la lesión, sin escuchar versiones, ni revisar el hostigamiento previo ni reportar al comité de convivencia.",
+          "text": "Suspendes a ambos por tres días de acuerdo con el manual y pides a las familias que los recojan, sin atender primero la lesión, sin escuchar versiones, sin revisar el hostigamiento previo ni reportar al comité de convivencia ni clasificar la situación.",
           "level": 1
         },
         {
@@ -828,11 +828,11 @@
           "level": 3
         },
         {
-          "text": "Los obligas a darse la mano frente a todos y a firmar un compromiso de no repetir la pelea, sin atender la lesión del labio ni escuchar a ambos ni clasificar la situación según el Decreto 1965, ni informar a los acudientes.",
+          "text": "Los obligas a darse la mano frente a todos y a firmar un compromiso de no repetir la pelea, sin atender la lesión del labio, sin escuchar a ambos, sin clasificar la situación según el Decreto 1965 ni informar a los acudientes ni al comité de convivencia.",
           "level": 0
         },
         {
-          "text": "Atiendes la lesión, citas a las familias y aplicas la sanción que corresponde según el manual, sin revisar el contexto ni el hostigamiento previo, sin clasificar la situación según el Decreto 1965 ni reportar al comité.",
+          "text": "Atiendes la lesión, citas a las familias y aplicas la sanción que corresponde según el manual, sin revisar el contexto ni el hostigamiento previo, sin clasificar la situación según el Decreto 1965, sin reportar al comité ni definir acciones de protección.",
           "level": 2
         }
       ],
@@ -847,7 +847,7 @@
       "prompt": "¿Qué actuación corresponde?",
       "options": [
         {
-          "text": "Hablas con el docente para que explique los mensajes y le pides que no vuelva a escribirle a la estudiante, sin conservar las evidencias ni informar a rectoría ni activar la ruta de atención ni reportar.",
+          "text": "Hablas con el docente para que explique los mensajes y le pides que no vuelva a escribirle a la estudiante, sin conservar las evidencias, sin informar a rectoría ni a la familia, ni activar la ruta de atención ni reportar.",
           "level": 1
         },
         {
@@ -855,11 +855,11 @@
           "level": 3
         },
         {
-          "text": "Guardas la reserva que la estudiante te pidió y esperas a tener más pruebas antes de actuar, sin informar a rectoría ni a la familia ni activar la ruta de atención, ni reportar a las autoridades.",
+          "text": "Guardas la reserva que la estudiante te pidió y esperas a tener más pruebas antes de actuar, sin conservar las capturas, sin informar a rectoría ni a la familia, sin activar la ruta de atención ni reportar a las autoridades.",
           "level": 0
         },
         {
-          "text": "Informas a rectoría y dejas que la rectora decida qué hacer con el caso, sin garantizar la protección de la estudiante, ni informar a la familia, ni reportar a las autoridades competentes ni al ente disciplinario.",
+          "text": "Informas a rectoría y dejas que la rectora decida qué hacer con el caso, sin garantizar la protección de la estudiante, sin conservar las evidencias, sin informar a la familia ni reportar a las autoridades ni al ente disciplinario.",
           "level": 2
         }
       ],
