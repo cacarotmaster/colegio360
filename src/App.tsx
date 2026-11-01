@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import casos from './content/casos.json'
 import {
   applyAnswer,
@@ -59,6 +59,7 @@ export default function App() {
   const [simAnswers, setSimAnswers] = useState<number[]>([])
   const [simIdx, setSimIdx] = useState(0)
   const [simResult, setSimResult] = useState<{ score: number; byZone: Record<string, { ok: number; total: number }> } | null>(null)
+  const simAnswersRef = useRef<number[]>([])
 
   useEffect(() => {
     if (progress) saveProgress(progress)
@@ -148,9 +149,10 @@ export default function App() {
 
   function startSim() {
     const pool = ALL.filter((c) => c.role === progress!.role)
-    const items = shuffled(pool).slice(0, Math.min(30, pool.length)).map((c) => ({ ...c, options: shuffled(c.options) }))
+    const items = shuffled(pool).slice(0, Math.min(40, pool.length)).map((c) => ({ ...c, options: shuffled(c.options) }))
     if (!items.length) return
     setSimItems(items)
+    simAnswersRef.current = Array(items.length).fill(-1)
     setSimAnswers(Array(items.length).fill(-1))
     setSimIdx(0)
     setSimResult(null)
@@ -158,7 +160,7 @@ export default function App() {
   }
 
   function finishSim() {
-    const res = gradeSim(simItems, simAnswers)
+    const res = gradeSim(simItems, simAnswersRef.current)
     setSimResult(res)
     setProgress((p) => (p ? { ...p, simBest: Math.max(p.simBest, res.score), simCount: p.simCount + 1 } : p))
     setScreen('simend')
@@ -320,8 +322,9 @@ export default function App() {
                 className={`opt ${simAnswers[simIdx] === i ? 'picked' : ''}`}
                 aria-pressed={simAnswers[simIdx] === i}
                 onClick={() => {
-                  const a = [...simAnswers]
+                  const a = [...simAnswersRef.current]
                   a[simIdx] = i
+                  simAnswersRef.current = a
                   setSimAnswers(a)
                 }}
               >
@@ -338,7 +341,7 @@ export default function App() {
               <button
                 className="btn primary"
                 onClick={() => {
-                  if (simAnswers.some((a) => a < 0) && !confirm('Quedan casos sin responder. ¿Entregar igual?')) return
+                  if (simAnswersRef.current.some((a) => a < 0) && !confirm('Quedan casos sin responder. ¿Entregar igual?')) return
                   finishSim()
                 }}
               >
