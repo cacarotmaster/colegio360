@@ -1,0 +1,16 @@
+{
+  "name": "Colegio 360 · Concurso docente",
+  "short_name": "Colegio 360",
+  "description": "Un día en la institución educativa. Dos roles: docente y coordinador. Entrenamiento para el concurso docente colombiano.",
+  "lang": "es-CO",
+  "start_url": "/colegio360/",
+  "scope": "/colegio360/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f3e9",
+  "theme_color": "#f7f3e9",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
